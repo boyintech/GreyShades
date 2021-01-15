@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/GreyShades.iml" filepath="$PROJECT_DIR$/GreyShades.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/GreyShades.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/GreyShades.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1367881714/GreyShades.react-native-community_blur.iml" filepath="$PROJECT_DIR$/.idea/modules/-1367881714/GreyShades.react-native-community_blur.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1821191153/GreyShades.react-native-community_clipboard.iml" filepath="$PROJECT_DIR$/.idea/modules/-1821191153/GreyShades.react-native-community_clipboard.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/129361072/GreyShades.react-native-community_datetimepicker.iml" filepath="$PROJECT_DIR$/.idea/modules/129361072/GreyShades.react-native-community_datetimepicker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-742496800/GreyShades.react-native-community_masked-view.iml" filepath="$PROJECT_DIR$/.idea/modules/-742496800/GreyShades.react-native-community_masked-view.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/184669045/GreyShades.react-native-community_picker.iml" filepath="$PROJECT_DIR$/.idea/modules/184669045/GreyShades.react-native-community_picker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/967742362/GreyShades.react-native-firebase_app.iml" filepath="$PROJECT_DIR$/.idea/modules/967742362/GreyShades.react-native-firebase_app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-811682545/GreyShades.react-native-firebase_auth.iml" filepath="$PROJECT_DIR$/.idea/modules/-811682545/GreyShades.react-native-firebase_auth.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1201993118/GreyShades.react-native-firebase_database.iml" filepath="$PROJECT_DIR$/.idea/modules/-1201993118/GreyShades.react-native-firebase_database.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1362875100/GreyShades.react-native-firebase_firestore.iml" filepath="$PROJECT_DIR$/.idea/modules/-1362875100/GreyShades.react-native-firebase_firestore.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-85290924/GreyShades.react-native-firebase_functions.iml" filepath="$PROJECT_DIR$/.idea/modules/-85290924/GreyShades.react-native-firebase_functions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1041676611/GreyShades.react-native-firebase_messaging.iml" filepath="$PROJECT_DIR$/.idea/modules/-1041676611/GreyShades.react-native-firebase_messaging.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1694421644/GreyShades.react-native-firebase_storage.iml" filepath="$PROJECT_DIR$/.idea/modules/-1694421644/GreyShades.react-native-firebase_storage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/91634423/GreyShades.react-native-gesture-handler.iml" filepath="$PROJECT_DIR$/.idea/modules/91634423/GreyShades.react-native-gesture-handler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1229456529/GreyShades.react-native-image-picker.iml" filepath="$PROJECT_DIR$/.idea/modules/-1229456529/GreyShades.react-native-image-picker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/711585545/GreyShades.react-native-linear-gradient.iml" filepath="$PROJECT_DIR$/.idea/modules/711585545/GreyShades.react-native-linear-gradient.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1014628444/GreyShades.react-native-orientation-locker.iml" filepath="$PROJECT_DIR$/.idea/modules/-1014628444/GreyShades.react-native-orientation-locker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1635197582/GreyShades.react-native-picker_picker.iml" filepath="$PROJECT_DIR$/.idea/modules/1635197582/GreyShades.react-native-picker_picker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/399844549/GreyShades.react-native-reanimated.iml" filepath="$PROJECT_DIR$/.idea/modules/399844549/GreyShades.react-native-reanimated.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1482264160/GreyShades.react-native-safe-area-context.iml" filepath="$PROJECT_DIR$/.idea/modules/-1482264160/GreyShades.react-native-safe-area-context.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1890231880/GreyShades.react-native-screens.iml" filepath="$PROJECT_DIR$/.idea/modules/-1890231880/GreyShades.react-native-screens.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/395810879/GreyShades.react-native-vector-icons.iml" filepath="$PROJECT_DIR$/.idea/modules/395810879/GreyShades.react-native-vector-icons.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-847598356/GreyShades.react-native-video.iml" filepath="$PROJECT_DIR$/.idea/modules/-847598356/GreyShades.react-native-video.iml" />
+    </modules>
+  </component>
+</project>

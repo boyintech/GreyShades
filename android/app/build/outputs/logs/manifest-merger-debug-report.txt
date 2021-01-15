@@ -1,0 +1,997 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/pogo/Projects/react/GreyShades/android/app/src/main/AndroidManifest.xml:1:1-27:12
+INJECTED from /home/pogo/Projects/react/GreyShades/android/app/src/main/AndroidManifest.xml:1:1-27:12
+INJECTED from /home/pogo/Projects/react/GreyShades/android/app/src/main/AndroidManifest.xml:1:1-27:12
+INJECTED from /home/pogo/Projects/react/GreyShades/android/app/src/main/AndroidManifest.xml:1:1-27:12
+MERGED from /home/pogo/Projects/react/GreyShades/android/app/src/main/AndroidManifest.xml:1:1-27:12
+MERGED from [com.facebook.flipper:flipper:0.37.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/f83c0d1c0de52875b561162f0ef0d310/flipper-0.37.0/AndroidManifest.xml:8:1-18:12
+MERGED from [com.facebook.flipper:flipper-network-plugin:0.37.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/123d03517b8b1cd329cba800c27ee445/flipper-network-plugin-0.37.0/AndroidManifest.xml:8:1-15:12
+MERGED from [com.facebook.flipper:flipper-fresco-plugin:0.37.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/3b613cf6b7af6efdc8c87c2f7f571525/flipper-fresco-plugin-0.37.0/AndroidManifest.xml:8:1-15:12
+MERGED from [:react-native-firebase_auth] /home/pogo/Projects/react/GreyShades/node_modules/@react-native-firebase/auth/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-15:12
+MERGED from [:react-native-firebase_database] /home/pogo/Projects/react/GreyShades/node_modules/@react-native-firebase/database/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-15:12
+MERGED from [:react-native-firebase_firestore] /home/pogo/Projects/react/GreyShades/node_modules/@react-native-firebase/firestore/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-firebase_functions] /home/pogo/Projects/react/GreyShades/node_modules/@react-native-firebase/functions/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-14:12
+MERGED from [:react-native-firebase_messaging] /home/pogo/Projects/react/GreyShades/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-45:12
+MERGED from [:react-native-firebase_storage] /home/pogo/Projects/react/GreyShades/node_modules/@react-native-firebase/storage/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-18:12
+MERGED from [:react-native-firebase_app] /home/pogo/Projects/react/GreyShades/node_modules/@react-native-firebase/app/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.multidex:multidex:2.0.1] /home/pogo/.gradle/caches/transforms-2/files-2.1/d24d84c5dd4ce3bf4f43fd4d1220b736/multidex-2.0.1/AndroidManifest.xml:17:1-22:12
+MERGED from [:react-native-community_blur] /home/pogo/Projects/react/GreyShades/node_modules/@react-native-community/blur/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-community_clipboard] /home/pogo/Projects/react/GreyShades/node_modules/@react-native-community/clipboard/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-community_datetimepicker] /home/pogo/Projects/react/GreyShades/node_modules/@react-native-community/datetimepicker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-13:12
+MERGED from [:react-native-community_masked-view] /home/pogo/Projects/react/GreyShades/node_modules/@react-native-community/masked-view/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-picker_picker] /home/pogo/Projects/react/GreyShades/node_modules/@react-native-picker/picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-gesture-handler] /home/pogo/Projects/react/GreyShades/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-image-picker] /home/pogo/Projects/react/GreyShades/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-21:12
+MERGED from [:react-native-orientation-locker] /home/pogo/Projects/react/GreyShades/node_modules/react-native-orientation-locker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-reanimated] /home/pogo/Projects/react/GreyShades/node_modules/react-native-reanimated/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-safe-area-context] /home/pogo/Projects/react/GreyShades/node_modules/react-native-safe-area-context/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-screens] /home/pogo/Projects/react/GreyShades/node_modules/react-native-screens/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-vector-icons] /home/pogo/Projects/react/GreyShades/node_modules/react-native-vector-icons/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-video] /home/pogo/Projects/react/GreyShades/node_modules/react-native-video/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [com.facebook.react:react-native:0.63.2] /home/pogo/.gradle/caches/transforms-2/files-2.1/a671e9fc5a82465af5ba163e937532e1/jetified-react-native-0.63.2/AndroidManifest.xml:2:1-13:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/58baa160ab535252d676d32c555673df/swiperefreshlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-core:18.0.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/8310e0f0d3d03acf432add272aea5251/firebase-core-18.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-analytics:18.0.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/774fa9075d3c695b17ab6ff0a880efa9/firebase-analytics-18.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.browser:browser:1.2.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/58a2f6dbb0b9f0e0226289605e4e5ec6/browser-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [org.webkit:android-jsc:r245459] /home/pogo/.gradle/caches/transforms-2/files-2.1/55e8e1f3452caf6d45970ff2be920e33/android-jsc-r245459/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-linear-gradient] /home/pogo/Projects/react/GreyShades/node_modules/react-native-linear-gradient/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.firebase:firebase-functions:19.1.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/a8fad71e15675428150120ebb7fef404/jetified-firebase-functions-19.1.0/AndroidManifest.xml:2:1-24:12
+MERGED from [com.google.firebase:firebase-auth:20.0.1] /home/pogo/.gradle/caches/transforms-2/files-2.1/d279e6b135cb32205dcd77435bcad661/jetified-firebase-auth-20.0.1/AndroidManifest.xml:17:1-83:12
+MERGED from [com.google.firebase:firebase-messaging:21.0.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/680cd98f9132cc7693c5e0e2628c9782/jetified-firebase-messaging-21.0.0/AndroidManifest.xml:17:1-45:12
+MERGED from [com.google.firebase:firebase-iid:21.0.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/a78eb796179cddbcb73ccd400832657b/firebase-iid-21.0.0/AndroidManifest.xml:17:1-47:12
+MERGED from [com.google.firebase:firebase-firestore:22.0.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/643490a916298e8c3d5e2b02161a3e6e/jetified-firebase-firestore-22.0.0/AndroidManifest.xml:2:1-26:12
+MERGED from [com.google.firebase:firebase-storage:19.2.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/f08b4ba8bb9b64f3db8ab21f45831ef6/firebase-storage-19.2.0/AndroidManifest.xml:15:1-39:12
+MERGED from [com.google.firebase:firebase-database:19.5.1] /home/pogo/.gradle/caches/transforms-2/files-2.1/4c24f1acb328b1cf4e3c08702dc67dab/firebase-database-19.5.1/AndroidManifest.xml:15:1-38:12
+MERGED from [com.google.android.gms:play-services-measurement-api:18.0.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/6be347fc773bd3718759b2fcb64e74c7/play-services-measurement-api-18.0.0/AndroidManifest.xml:17:1-36:12
+MERGED from [com.google.firebase:firebase-auth-interop:19.0.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/e2aaf5f91c6641b992344f1ea98f250f/firebase-auth-interop-19.0.0/AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.firebase:firebase-datatransport:17.0.3] /home/pogo/.gradle/caches/transforms-2/files-2.1/c4f9a0d168992baa77ee2aeb680d0a52/firebase-datatransport-17.0.3/AndroidManifest.xml:15:1-34:12
+MERGED from [com.google.firebase:firebase-installations:16.3.4] /home/pogo/.gradle/caches/transforms-2/files-2.1/dc1de0c209d52e17e0d8a11f498db4e8/firebase-installations-16.3.4/AndroidManifest.xml:2:1-24:12
+MERGED from [com.google.firebase:firebase-common:19.4.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/c6779c6da4c20ccbe864d17a8f9bee2a/jetified-firebase-common-19.4.0/AndroidManifest.xml:15:1-40:12
+MERGED from [com.facebook.fresco:flipper:2.2.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/7661e9e624619dad65806659b4e92ea3/flipper-2.2.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:stetho:2.2.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/10f7bfe789ba03509b31a27380eeef40/stetho-2.2.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:fresco:2.2.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/54fd9679a5718fbf2009ddfae0774175/fresco-2.2.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/c551e8577f67400ca38916ede5acb5fe/imagepipeline-okhttp3-2.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:2.2.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/5e857249bc93d7ff31520804b3a1509f/drawee-2.2.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagefilters:2.2.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/b6229222cbd11a6b47ffa53815aff93a/nativeimagefilters-2.2.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:memory-type-native:2.2.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/65d7bc8f0c86f952567389796f9e4f89/memory-type-native-2.2.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:memory-type-java:2.2.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/a65761e9c2d43267606236e74c12cf4a/memory-type-java-2.2.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-native:2.2.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/a32e79a319e3e4796f52017cbac9ed6e/imagepipeline-native-2.2.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:memory-type-ashmem:2.2.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/11b4b4977164ac3367506aa7937777f4/memory-type-ashmem-2.2.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:2.2.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/91f8378d14653cd736a23ea91c7363ac/imagepipeline-2.2.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.2.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/e4249928cdfb41a6e082a755907bc886/nativeimagetranscoder-2.2.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:2.2.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/ffd7d2ad5d0a8492064b8d430ba6992a/imagepipeline-base-2.2.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:soloader:2.2.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/a2583e3d81e87b403a50e987914e4491/soloader-2.2.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.8.2] /home/pogo/.gradle/caches/transforms-2/files-2.1/c7559202d3ccc4e07ee25529094c7982/soloader-0.8.2/AndroidManifest.xml:2:1-13:12
+MERGED from [io.grpc:grpc-android:1.28.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/6e9a2b5e51e38fb87390c86765a9895f/grpc-android-1.28.0/AndroidManifest.xml:2:1-13:12
+MERGED from [com.google.android.material:material:1.1.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/dd5b18c4f8a1c4aba0a4f23dae64f838/material-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.1.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/daa3c2686a1605e889aa91397aeb3607/appcompat-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.2.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/3116d236fbef1dcdfacb6517e9bed953/transport-backend-cct-2.2.0/AndroidManifest.xml:15:1-38:12
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/720db66f8004ac21031e2222069601f3/transport-runtime-2.2.0/AndroidManifest.xml:15:1-41:12
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/0caea8347a9ef397f8895a8063f94371/appcompat-resources-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/fe8e71e101cbaf528cc486072ed4c28e/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/b78a5399ea9beee523afeb7dc0d01a7c/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-auth:18.1.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/0a126c1774474d2c805168dde34a9862/play-services-auth-18.1.0/AndroidManifest.xml:17:1-40:12
+MERGED from [com.google.android.gms:play-services-auth-base:17.0.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/84ed3e8f28836a33e45a4835bbd8bbf3/play-services-auth-base-17.0.0/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-auth-api-phone:17.4.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/5fea104bf0595ef6b3cd3e78ccd6a40a/play-services-auth-api-phone-17.4.0/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-safetynet:17.0.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/877517e360ec51b39d57af412d761f93/play-services-safetynet-17.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-database-collection:17.0.1] /home/pogo/.gradle/caches/transforms-2/files-2.1/3f44d7d3fdefd898bddc7675367c4222/firebase-database-collection-17.0.1/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/00f912dd79aab32f85042db58a22ea75/firebase-iid-interop-17.0.0/AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.android.gms:play-services-base:17.1.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/d3caf54114e86177d18237a7364d1766/play-services-base-17.1.0/AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-measurement:18.0.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/6f74dcac7c5d27c507231f5c02635066/play-services-measurement-18.0.0/AndroidManifest.xml:17:1-46:12
+MERGED from [com.google.android.gms:play-services-measurement-sdk:18.0.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/f7b1f45115a87edaa44daf4a091ad786/play-services-measurement-sdk-18.0.0/AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-cloud-messaging:16.0.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/2358f4dcbde0ef87bad7724948ba82bd/play-services-cloud-messaging-16.0.0/AndroidManifest.xml:2:1-13:12
+MERGED from [com.google.firebase:firebase-installations-interop:16.0.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/953c5f4b931f703e79a54c986717cc59/firebase-installations-interop-16.0.0/AndroidManifest.xml:15:1-23:12
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/b6f6af6420887caf6605401baa4017e8/play-services-tasks-17.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-measurement-impl:18.0.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/b63be9ff7deb386b2f72a29307370119/play-services-measurement-impl-18.0.0/AndroidManifest.xml:17:1-31:12
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/8f334b67506522435461c8c6eda7b7c8/play-services-stats-17.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/820e61501446d59a69cd9c408eee66fc/firebase-measurement-connector-18.0.0/AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/dd29c8e6f67f843d81024726fecce8df/play-services-ads-identifier-17.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:18.0.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/8dda47963163659db4730972d420a819/play-services-measurement-sdk-api-18.0.0/AndroidManifest.xml:17:1-27:12
+MERGED from [com.google.android.gms:play-services-measurement-base:18.0.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/c3f6bd9e389918ad34b33617ede329ca/play-services-measurement-base-18.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:17.1.1] /home/pogo/.gradle/caches/transforms-2/files-2.1/3cdbfbe24ad8b96616b3cbd2c86974b9/jetified-play-services-basement-17.1.1/AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/3dcac4ee1e31a1fe1b0474d9dc513a90/viewpager2-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.2.1] /home/pogo/.gradle/caches/transforms-2/files-2.1/c1c46489f35b38cfcb0b9269375d66c1/fragment-1.2.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/725e8067965810ebb015effb02057ed4/coordinatorlayout-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/4b2f76bfb138c3d04b4fdb7e4a57c3f4/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/d0b76de50009d02ae3a61625e9c61668/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/a2a604909fa57d86b75cb00eccc5776f/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/d9dd1f832330f9830d5573b2c42f64c9/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.1.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/c2e91d6650bc8b924caae233b030e4cd/activity-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/1c827ac73b6372482a4fe73492ae0bb0/recyclerview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/ccf906420216b35becd418efa8fead91/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.2.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/ab13f194898fca16e8460c32b937ffd6/transition-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/cc3310bf2a05cbbcef60a1b19b9e1498/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.1.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/6466522822c9f31c5107b8fc2277998a/core-1.1.0/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/807919ccc837c4755749abf0f5f0d63e/versionedparcelable-1.1.0/AndroidManifest.xml:17:1-27:12
+MERGED from [com.eightbitlab:blurview:1.6.3] /home/pogo/.gradle/caches/transforms-2/files-2.1/93923440f695e030fe841d360c8092ef/jetified-blurview-1.6.3/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/0b3e62c1c3d0576dcdde711531c287ce/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-components:16.0.1] /home/pogo/.gradle/caches/transforms-2/files-2.1/9f2443543d99d2a55c146b7ccdded412/jetified-firebase-components-16.0.1/AndroidManifest.xml:15:1-23:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/2e5454e2986d1d25881079122bbcdfbd/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-encoders-json:16.0.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/8165f642d34d694f67d7935b5993c9c2/firebase-encoders-json-16.0.0/AndroidManifest.xml:15:1-23:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/f58aded31185cc85b75b4af5bf41d6f0/lifecycle-viewmodel-savedstate-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/aff266cae9a718e77c99431eda2bbce4/lifecycle-viewmodel-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cardview:cardview:1.0.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/2b77b338008a4a033ff8141ea7e2f236/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/c51f7beee8d8db2ab039c1193fc5997d/lifecycle-runtime-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/c8d258fe89319cd1a6e24defa826748c/savedstate-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/3b24523c209e746f364d111262620408/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/e18268382524a2d97ab46f9add103737/lifecycle-livedata-core-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/494632bb32bdcfc5b91d889511f3dd1c/core-runtime-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/af933a2f9189f43c4e1943e87eaab436/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/420f57a583860cab9badbb9394b4cf41/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.yqritc:android-scalablevideoview:1.0.4] /home/pogo/.gradle/caches/transforms-2/files-2.1/0e15d70dce58bd5f69e7d6bb3d349703/jetified-android-scalablevideoview-1.0.4/AndroidManifest.xml:2:1-12:12
+MERGED from [com.facebook.soloader:annotation:0.8.2] /home/pogo/.gradle/caches/transforms-2/files-2.1/245921b26abc389f933651f84a312797/annotation-0.8.2/AndroidManifest.xml:2:1-13:12
+MERGED from [com.facebook.fresco:fbcore:2.2.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/664c4ded34c6b705e6f3c3a23ca614de/jetified-fbcore-2.2.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:ui-common:2.2.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/9adc472a0276fe390f3f8a0c0f125417/ui-common-2.2.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:protolite-well-known-types:17.1.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/aa0cc9b76432c331f2724e42f2d6d6ca/protolite-well-known-types-17.1.0/AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.datatransport:transport-api:2.2.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/f737253eef0d1a405c63ad080c77c4d3/transport-api-2.2.0/AndroidManifest.xml:15:1-22:12
+INJECTED from /home/pogo/Projects/react/GreyShades/android/app/src/debug/AndroidManifest.xml:2:1-8:12
+INJECTED from /home/pogo/Projects/react/GreyShades/android/app/src/debug/AndroidManifest.xml:2:1-8:12
+INJECTED from /home/pogo/Projects/react/GreyShades/android/app/src/debug/AndroidManifest.xml:2:1-8:12
+	package
+		ADDED from /home/pogo/Projects/react/GreyShades/android/app/src/main/AndroidManifest.xml:2:3-27
+		INJECTED from /home/pogo/Projects/react/GreyShades/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/pogo/Projects/react/GreyShades/android/app/src/main/AndroidManifest.xml:2:3-27
+		INJECTED from /home/pogo/Projects/react/GreyShades/android/app/src/debug/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/pogo/Projects/react/GreyShades/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/pogo/Projects/react/GreyShades/android/app/src/main/AndroidManifest.xml:1:1-27:12
+		INJECTED from /home/pogo/Projects/react/GreyShades/android/app/src/debug/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /home/pogo/Projects/react/GreyShades/android/app/src/debug/AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from /home/pogo/Projects/react/GreyShades/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/pogo/Projects/react/GreyShades/android/app/src/main/AndroidManifest.xml:1:1-27:12
+		INJECTED from /home/pogo/Projects/react/GreyShades/android/app/src/debug/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/pogo/Projects/react/GreyShades/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /home/pogo/Projects/react/GreyShades/android/app/src/main/AndroidManifest.xml:4:5-67
+MERGED from [com.facebook.flipper:flipper:0.37.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/f83c0d1c0de52875b561162f0ef0d310/flipper-0.37.0/AndroidManifest.xml:15:5-67
+MERGED from [com.facebook.flipper:flipper:0.37.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/f83c0d1c0de52875b561162f0ef0d310/flipper-0.37.0/AndroidManifest.xml:15:5-67
+MERGED from [:react-native-firebase_auth] /home/pogo/Projects/react/GreyShades/node_modules/@react-native-firebase/auth/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-67
+MERGED from [:react-native-firebase_auth] /home/pogo/Projects/react/GreyShades/node_modules/@react-native-firebase/auth/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-67
+MERGED from [:react-native-firebase_database] /home/pogo/Projects/react/GreyShades/node_modules/@react-native-firebase/database/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-67
+MERGED from [:react-native-firebase_database] /home/pogo/Projects/react/GreyShades/node_modules/@react-native-firebase/database/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-67
+MERGED from [:react-native-firebase_functions] /home/pogo/Projects/react/GreyShades/node_modules/@react-native-firebase/functions/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-67
+MERGED from [:react-native-firebase_functions] /home/pogo/Projects/react/GreyShades/node_modules/@react-native-firebase/functions/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-67
+MERGED from [:react-native-firebase_messaging] /home/pogo/Projects/react/GreyShades/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-67
+MERGED from [:react-native-firebase_messaging] /home/pogo/Projects/react/GreyShades/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-67
+MERGED from [:react-native-firebase_storage] /home/pogo/Projects/react/GreyShades/node_modules/@react-native-firebase/storage/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-67
+MERGED from [:react-native-firebase_storage] /home/pogo/Projects/react/GreyShades/node_modules/@react-native-firebase/storage/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-67
+MERGED from [com.google.firebase:firebase-functions:19.1.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/a8fad71e15675428150120ebb7fef404/jetified-firebase-functions-19.1.0/AndroidManifest.xml:12:5-67
+MERGED from [com.google.firebase:firebase-functions:19.1.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/a8fad71e15675428150120ebb7fef404/jetified-firebase-functions-19.1.0/AndroidManifest.xml:12:5-67
+MERGED from [com.google.firebase:firebase-auth:20.0.1] /home/pogo/.gradle/caches/transforms-2/files-2.1/d279e6b135cb32205dcd77435bcad661/jetified-firebase-auth-20.0.1/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-auth:20.0.1] /home/pogo/.gradle/caches/transforms-2/files-2.1/d279e6b135cb32205dcd77435bcad661/jetified-firebase-auth-20.0.1/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-iid:21.0.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/a78eb796179cddbcb73ccd400832657b/firebase-iid-21.0.0/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-iid:21.0.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/a78eb796179cddbcb73ccd400832657b/firebase-iid-21.0.0/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-firestore:22.0.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/643490a916298e8c3d5e2b02161a3e6e/jetified-firebase-firestore-22.0.0/AndroidManifest.xml:14:5-67
+MERGED from [com.google.firebase:firebase-firestore:22.0.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/643490a916298e8c3d5e2b02161a3e6e/jetified-firebase-firestore-22.0.0/AndroidManifest.xml:14:5-67
+MERGED from [com.google.firebase:firebase-storage:19.2.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/f08b4ba8bb9b64f3db8ab21f45831ef6/firebase-storage-19.2.0/AndroidManifest.xml:27:5-67
+MERGED from [com.google.firebase:firebase-storage:19.2.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/f08b4ba8bb9b64f3db8ab21f45831ef6/firebase-storage-19.2.0/AndroidManifest.xml:27:5-67
+MERGED from [com.google.firebase:firebase-database:19.5.1] /home/pogo/.gradle/caches/transforms-2/files-2.1/4c24f1acb328b1cf4e3c08702dc67dab/firebase-database-19.5.1/AndroidManifest.xml:26:5-67
+MERGED from [com.google.firebase:firebase-database:19.5.1] /home/pogo/.gradle/caches/transforms-2/files-2.1/4c24f1acb328b1cf4e3c08702dc67dab/firebase-database-19.5.1/AndroidManifest.xml:26:5-67
+MERGED from [com.google.android.gms:play-services-measurement-api:18.0.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/6be347fc773bd3718759b2fcb64e74c7/play-services-measurement-api-18.0.0/AndroidManifest.xml:22:5-67
+MERGED from [com.google.android.gms:play-services-measurement-api:18.0.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/6be347fc773bd3718759b2fcb64e74c7/play-services-measurement-api-18.0.0/AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-installations:16.3.4] /home/pogo/.gradle/caches/transforms-2/files-2.1/dc1de0c209d52e17e0d8a11f498db4e8/firebase-installations-16.3.4/AndroidManifest.xml:11:5-67
+MERGED from [com.google.firebase:firebase-installations:16.3.4] /home/pogo/.gradle/caches/transforms-2/files-2.1/dc1de0c209d52e17e0d8a11f498db4e8/firebase-installations-16.3.4/AndroidManifest.xml:11:5-67
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.2.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/3116d236fbef1dcdfacb6517e9bed953/transport-backend-cct-2.2.0/AndroidManifest.xml:26:5-67
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.2.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/3116d236fbef1dcdfacb6517e9bed953/transport-backend-cct-2.2.0/AndroidManifest.xml:26:5-67
+MERGED from [com.google.android.gms:play-services-measurement:18.0.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/6f74dcac7c5d27c507231f5c02635066/play-services-measurement-18.0.0/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement:18.0.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/6f74dcac7c5d27c507231f5c02635066/play-services-measurement-18.0.0/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-cloud-messaging:16.0.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/2358f4dcbde0ef87bad7724948ba82bd/play-services-cloud-messaging-16.0.0/AndroidManifest.xml:8:5-67
+MERGED from [com.google.android.gms:play-services-cloud-messaging:16.0.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/2358f4dcbde0ef87bad7724948ba82bd/play-services-cloud-messaging-16.0.0/AndroidManifest.xml:8:5-67
+MERGED from [com.google.android.gms:play-services-measurement-impl:18.0.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/b63be9ff7deb386b2f72a29307370119/play-services-measurement-impl-18.0.0/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-impl:18.0.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/b63be9ff7deb386b2f72a29307370119/play-services-measurement-impl-18.0.0/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:18.0.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/8dda47963163659db4730972d420a819/play-services-measurement-sdk-api-18.0.0/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:18.0.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/8dda47963163659db4730972d420a819/play-services-measurement-sdk-api-18.0.0/AndroidManifest.xml:23:5-67
+	android:name
+		ADDED from /home/pogo/Projects/react/GreyShades/android/app/src/main/AndroidManifest.xml:4:22-64
+application
+ADDED from /home/pogo/Projects/react/GreyShades/android/app/src/main/AndroidManifest.xml:6:5-25:19
+MERGED from /home/pogo/Projects/react/GreyShades/android/app/src/main/AndroidManifest.xml:6:5-25:19
+MERGED from /home/pogo/Projects/react/GreyShades/android/app/src/main/AndroidManifest.xml:6:5-25:19
+MERGED from [:react-native-firebase_messaging] /home/pogo/Projects/react/GreyShades/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:15:5-43:19
+MERGED from [:react-native-firebase_messaging] /home/pogo/Projects/react/GreyShades/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:15:5-43:19
+MERGED from [:react-native-community_datetimepicker] /home/pogo/Projects/react/GreyShades/node_modules/@react-native-community/datetimepicker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-20
+MERGED from [:react-native-community_datetimepicker] /home/pogo/Projects/react/GreyShades/node_modules/@react-native-community/datetimepicker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-20
+MERGED from [:react-native-image-picker] /home/pogo/Projects/react/GreyShades/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:9:5-19:19
+MERGED from [:react-native-image-picker] /home/pogo/Projects/react/GreyShades/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:9:5-19:19
+MERGED from [com.facebook.react:react-native:0.63.2] /home/pogo/.gradle/caches/transforms-2/files-2.1/a671e9fc5a82465af5ba163e937532e1/jetified-react-native-0.63.2/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.react:react-native:0.63.2] /home/pogo/.gradle/caches/transforms-2/files-2.1/a671e9fc5a82465af5ba163e937532e1/jetified-react-native-0.63.2/AndroidManifest.xml:11:5-20
+MERGED from [com.google.firebase:firebase-core:18.0.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/8310e0f0d3d03acf432add272aea5251/firebase-core-18.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-core:18.0.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/8310e0f0d3d03acf432add272aea5251/firebase-core-18.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-analytics:18.0.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/774fa9075d3c695b17ab6ff0a880efa9/firebase-analytics-18.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-analytics:18.0.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/774fa9075d3c695b17ab6ff0a880efa9/firebase-analytics-18.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-functions:19.1.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/a8fad71e15675428150120ebb7fef404/jetified-firebase-functions-19.1.0/AndroidManifest.xml:14:5-22:19
+MERGED from [com.google.firebase:firebase-functions:19.1.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/a8fad71e15675428150120ebb7fef404/jetified-firebase-functions-19.1.0/AndroidManifest.xml:14:5-22:19
+MERGED from [com.google.firebase:firebase-auth:20.0.1] /home/pogo/.gradle/caches/transforms-2/files-2.1/d279e6b135cb32205dcd77435bcad661/jetified-firebase-auth-20.0.1/AndroidManifest.xml:26:5-81:19
+MERGED from [com.google.firebase:firebase-auth:20.0.1] /home/pogo/.gradle/caches/transforms-2/files-2.1/d279e6b135cb32205dcd77435bcad661/jetified-firebase-auth-20.0.1/AndroidManifest.xml:26:5-81:19
+MERGED from [com.google.firebase:firebase-messaging:21.0.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/680cd98f9132cc7693c5e0e2628c9782/jetified-firebase-messaging-21.0.0/AndroidManifest.xml:22:5-43:19
+MERGED from [com.google.firebase:firebase-messaging:21.0.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/680cd98f9132cc7693c5e0e2628c9782/jetified-firebase-messaging-21.0.0/AndroidManifest.xml:22:5-43:19
+MERGED from [com.google.firebase:firebase-iid:21.0.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/a78eb796179cddbcb73ccd400832657b/firebase-iid-21.0.0/AndroidManifest.xml:28:5-45:19
+MERGED from [com.google.firebase:firebase-iid:21.0.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/a78eb796179cddbcb73ccd400832657b/firebase-iid-21.0.0/AndroidManifest.xml:28:5-45:19
+MERGED from [com.google.firebase:firebase-firestore:22.0.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/643490a916298e8c3d5e2b02161a3e6e/jetified-firebase-firestore-22.0.0/AndroidManifest.xml:16:5-24:19
+MERGED from [com.google.firebase:firebase-firestore:22.0.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/643490a916298e8c3d5e2b02161a3e6e/jetified-firebase-firestore-22.0.0/AndroidManifest.xml:16:5-24:19
+MERGED from [com.google.firebase:firebase-storage:19.2.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/f08b4ba8bb9b64f3db8ab21f45831ef6/firebase-storage-19.2.0/AndroidManifest.xml:29:5-37:19
+MERGED from [com.google.firebase:firebase-storage:19.2.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/f08b4ba8bb9b64f3db8ab21f45831ef6/firebase-storage-19.2.0/AndroidManifest.xml:29:5-37:19
+MERGED from [com.google.firebase:firebase-database:19.5.1] /home/pogo/.gradle/caches/transforms-2/files-2.1/4c24f1acb328b1cf4e3c08702dc67dab/firebase-database-19.5.1/AndroidManifest.xml:28:5-36:19
+MERGED from [com.google.firebase:firebase-database:19.5.1] /home/pogo/.gradle/caches/transforms-2/files-2.1/4c24f1acb328b1cf4e3c08702dc67dab/firebase-database-19.5.1/AndroidManifest.xml:28:5-36:19
+MERGED from [com.google.android.gms:play-services-measurement-api:18.0.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/6be347fc773bd3718759b2fcb64e74c7/play-services-measurement-api-18.0.0/AndroidManifest.xml:26:5-34:19
+MERGED from [com.google.android.gms:play-services-measurement-api:18.0.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/6be347fc773bd3718759b2fcb64e74c7/play-services-measurement-api-18.0.0/AndroidManifest.xml:26:5-34:19
+MERGED from [com.google.firebase:firebase-auth-interop:19.0.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/e2aaf5f91c6641b992344f1ea98f250f/firebase-auth-interop-19.0.0/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-auth-interop:19.0.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/e2aaf5f91c6641b992344f1ea98f250f/firebase-auth-interop-19.0.0/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-datatransport:17.0.3] /home/pogo/.gradle/caches/transforms-2/files-2.1/c4f9a0d168992baa77ee2aeb680d0a52/firebase-datatransport-17.0.3/AndroidManifest.xml:24:5-32:19
+MERGED from [com.google.firebase:firebase-datatransport:17.0.3] /home/pogo/.gradle/caches/transforms-2/files-2.1/c4f9a0d168992baa77ee2aeb680d0a52/firebase-datatransport-17.0.3/AndroidManifest.xml:24:5-32:19
+MERGED from [com.google.firebase:firebase-installations:16.3.4] /home/pogo/.gradle/caches/transforms-2/files-2.1/dc1de0c209d52e17e0d8a11f498db4e8/firebase-installations-16.3.4/AndroidManifest.xml:14:5-22:19
+MERGED from [com.google.firebase:firebase-installations:16.3.4] /home/pogo/.gradle/caches/transforms-2/files-2.1/dc1de0c209d52e17e0d8a11f498db4e8/firebase-installations-16.3.4/AndroidManifest.xml:14:5-22:19
+MERGED from [com.google.firebase:firebase-common:19.4.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/c6779c6da4c20ccbe864d17a8f9bee2a/jetified-firebase-common-19.4.0/AndroidManifest.xml:25:5-38:19
+MERGED from [com.google.firebase:firebase-common:19.4.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/c6779c6da4c20ccbe864d17a8f9bee2a/jetified-firebase-common-19.4.0/AndroidManifest.xml:25:5-38:19
+MERGED from [com.facebook.soloader:soloader:0.8.2] /home/pogo/.gradle/caches/transforms-2/files-2.1/c7559202d3ccc4e07ee25529094c7982/soloader-0.8.2/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.8.2] /home/pogo/.gradle/caches/transforms-2/files-2.1/c7559202d3ccc4e07ee25529094c7982/soloader-0.8.2/AndroidManifest.xml:11:5-20
+MERGED from [com.google.android.material:material:1.1.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/dd5b18c4f8a1c4aba0a4f23dae64f838/material-1.1.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.1.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/dd5b18c4f8a1c4aba0a4f23dae64f838/material-1.1.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.2.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/3116d236fbef1dcdfacb6517e9bed953/transport-backend-cct-2.2.0/AndroidManifest.xml:28:5-36:19
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.2.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/3116d236fbef1dcdfacb6517e9bed953/transport-backend-cct-2.2.0/AndroidManifest.xml:28:5-36:19
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/720db66f8004ac21031e2222069601f3/transport-runtime-2.2.0/AndroidManifest.xml:25:5-39:19
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/720db66f8004ac21031e2222069601f3/transport-runtime-2.2.0/AndroidManifest.xml:25:5-39:19
+MERGED from [com.google.android.gms:play-services-auth:18.1.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/0a126c1774474d2c805168dde34a9862/play-services-auth-18.1.0/AndroidManifest.xml:22:5-38:19
+MERGED from [com.google.android.gms:play-services-auth:18.1.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/0a126c1774474d2c805168dde34a9862/play-services-auth-18.1.0/AndroidManifest.xml:22:5-38:19
+MERGED from [com.google.android.gms:play-services-safetynet:17.0.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/877517e360ec51b39d57af412d761f93/play-services-safetynet-17.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-safetynet:17.0.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/877517e360ec51b39d57af412d761f93/play-services-safetynet-17.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/00f912dd79aab32f85042db58a22ea75/firebase-iid-interop-17.0.0/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/00f912dd79aab32f85042db58a22ea75/firebase-iid-interop-17.0.0/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.android.gms:play-services-base:17.1.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/d3caf54114e86177d18237a7364d1766/play-services-base-17.1.0/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:17.1.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/d3caf54114e86177d18237a7364d1766/play-services-base-17.1.0/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-measurement:18.0.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/6f74dcac7c5d27c507231f5c02635066/play-services-measurement-18.0.0/AndroidManifest.xml:28:5-44:19
+MERGED from [com.google.android.gms:play-services-measurement:18.0.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/6f74dcac7c5d27c507231f5c02635066/play-services-measurement-18.0.0/AndroidManifest.xml:28:5-44:19
+MERGED from [com.google.android.gms:play-services-measurement-sdk:18.0.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/f7b1f45115a87edaa44daf4a091ad786/play-services-measurement-sdk-18.0.0/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-measurement-sdk:18.0.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/f7b1f45115a87edaa44daf4a091ad786/play-services-measurement-sdk-18.0.0/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/b6f6af6420887caf6605401baa4017e8/play-services-tasks-17.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/b6f6af6420887caf6605401baa4017e8/play-services-tasks-17.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement-impl:18.0.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/b63be9ff7deb386b2f72a29307370119/play-services-measurement-impl-18.0.0/AndroidManifest.xml:28:5-29:19
+MERGED from [com.google.android.gms:play-services-measurement-impl:18.0.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/b63be9ff7deb386b2f72a29307370119/play-services-measurement-impl-18.0.0/AndroidManifest.xml:28:5-29:19
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/8f334b67506522435461c8c6eda7b7c8/play-services-stats-17.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/8f334b67506522435461c8c6eda7b7c8/play-services-stats-17.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/820e61501446d59a69cd9c408eee66fc/firebase-measurement-connector-18.0.0/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/820e61501446d59a69cd9c408eee66fc/firebase-measurement-connector-18.0.0/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/dd29c8e6f67f843d81024726fecce8df/play-services-ads-identifier-17.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/dd29c8e6f67f843d81024726fecce8df/play-services-ads-identifier-17.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-measurement-base:18.0.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/c3f6bd9e389918ad34b33617ede329ca/play-services-measurement-base-18.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement-base:18.0.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/c3f6bd9e389918ad34b33617ede329ca/play-services-measurement-base-18.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:17.1.1] /home/pogo/.gradle/caches/transforms-2/files-2.1/3cdbfbe24ad8b96616b3cbd2c86974b9/jetified-play-services-basement-17.1.1/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:17.1.1] /home/pogo/.gradle/caches/transforms-2/files-2.1/3cdbfbe24ad8b96616b3cbd2c86974b9/jetified-play-services-basement-17.1.1/AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.core:core:1.1.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/6466522822c9f31c5107b8fc2277998a/core-1.1.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.1.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/6466522822c9f31c5107b8fc2277998a/core-1.1.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/807919ccc837c4755749abf0f5f0d63e/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/807919ccc837c4755749abf0f5f0d63e/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+MERGED from [com.eightbitlab:blurview:1.6.3] /home/pogo/.gradle/caches/transforms-2/files-2.1/93923440f695e030fe841d360c8092ef/jetified-blurview-1.6.3/AndroidManifest.xml:9:5-20
+MERGED from [com.eightbitlab:blurview:1.6.3] /home/pogo/.gradle/caches/transforms-2/files-2.1/93923440f695e030fe841d360c8092ef/jetified-blurview-1.6.3/AndroidManifest.xml:9:5-20
+MERGED from [com.facebook.soloader:annotation:0.8.2] /home/pogo/.gradle/caches/transforms-2/files-2.1/245921b26abc389f933651f84a312797/annotation-0.8.2/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:annotation:0.8.2] /home/pogo/.gradle/caches/transforms-2/files-2.1/245921b26abc389f933651f84a312797/annotation-0.8.2/AndroidManifest.xml:11:5-20
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.1.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/6466522822c9f31c5107b8fc2277998a/core-1.1.0/AndroidManifest.xml:24:18-86
+	android:label
+		ADDED from /home/pogo/Projects/react/GreyShades/android/app/src/main/AndroidManifest.xml:8:7-39
+		ADDED from /home/pogo/Projects/react/GreyShades/android/app/src/main/AndroidManifest.xml:8:7-39
+	tools:ignore
+		ADDED from /home/pogo/Projects/react/GreyShades/android/app/src/debug/AndroidManifest.xml:7:75-114
+	android:roundIcon
+		ADDED from /home/pogo/Projects/react/GreyShades/android/app/src/main/AndroidManifest.xml:10:7-52
+		ADDED from /home/pogo/Projects/react/GreyShades/android/app/src/main/AndroidManifest.xml:10:7-52
+	tools:targetApi
+		ADDED from /home/pogo/Projects/react/GreyShades/android/app/src/debug/AndroidManifest.xml:7:54-74
+	android:icon
+		ADDED from /home/pogo/Projects/react/GreyShades/android/app/src/main/AndroidManifest.xml:9:7-41
+		ADDED from /home/pogo/Projects/react/GreyShades/android/app/src/main/AndroidManifest.xml:9:7-41
+	android:allowBackup
+		ADDED from /home/pogo/Projects/react/GreyShades/android/app/src/main/AndroidManifest.xml:11:7-34
+		ADDED from /home/pogo/Projects/react/GreyShades/android/app/src/main/AndroidManifest.xml:11:7-34
+	android:theme
+		ADDED from /home/pogo/Projects/react/GreyShades/android/app/src/main/AndroidManifest.xml:12:7-38
+		ADDED from /home/pogo/Projects/react/GreyShades/android/app/src/main/AndroidManifest.xml:12:7-38
+	android:usesCleartextTraffic
+		ADDED from /home/pogo/Projects/react/GreyShades/android/app/src/debug/AndroidManifest.xml:7:18-53
+	android:name
+		ADDED from /home/pogo/Projects/react/GreyShades/android/app/src/main/AndroidManifest.xml:7:7-38
+		ADDED from /home/pogo/Projects/react/GreyShades/android/app/src/main/AndroidManifest.xml:7:7-38
+activity#com.greyshades.MainActivity
+ADDED from /home/pogo/Projects/react/GreyShades/android/app/src/main/AndroidManifest.xml:13:7-23:18
+	android:label
+		ADDED from /home/pogo/Projects/react/GreyShades/android/app/src/main/AndroidManifest.xml:15:9-41
+	android:launchMode
+		ADDED from /home/pogo/Projects/react/GreyShades/android/app/src/main/AndroidManifest.xml:17:9-40
+	android:windowSoftInputMode
+		ADDED from /home/pogo/Projects/react/GreyShades/android/app/src/main/AndroidManifest.xml:18:9-48
+	android:configChanges
+		ADDED from /home/pogo/Projects/react/GreyShades/android/app/src/main/AndroidManifest.xml:16:9-86
+	android:name
+		ADDED from /home/pogo/Projects/react/GreyShades/android/app/src/main/AndroidManifest.xml:14:9-37
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/pogo/Projects/react/GreyShades/android/app/src/main/AndroidManifest.xml:19:9-22:25
+action#android.intent.action.MAIN
+ADDED from /home/pogo/Projects/react/GreyShades/android/app/src/main/AndroidManifest.xml:20:13-65
+	android:name
+		ADDED from /home/pogo/Projects/react/GreyShades/android/app/src/main/AndroidManifest.xml:20:21-62
+category#android.intent.category.LAUNCHER
+ADDED from /home/pogo/Projects/react/GreyShades/android/app/src/main/AndroidManifest.xml:21:13-73
+	android:name
+		ADDED from /home/pogo/Projects/react/GreyShades/android/app/src/main/AndroidManifest.xml:21:23-70
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from /home/pogo/Projects/react/GreyShades/android/app/src/main/AndroidManifest.xml:24:7-84
+	android:name
+		ADDED from /home/pogo/Projects/react/GreyShades/android/app/src/main/AndroidManifest.xml:24:17-81
+uses-sdk
+INJECTED from /home/pogo/Projects/react/GreyShades/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/pogo/Projects/react/GreyShades/android/app/src/main/AndroidManifest.xml
+INJECTED from /home/pogo/Projects/react/GreyShades/android/app/src/main/AndroidManifest.xml
+MERGED from [com.facebook.flipper:flipper:0.37.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/f83c0d1c0de52875b561162f0ef0d310/flipper-0.37.0/AndroidManifest.xml:11:5-13:41
+MERGED from [com.facebook.flipper:flipper:0.37.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/f83c0d1c0de52875b561162f0ef0d310/flipper-0.37.0/AndroidManifest.xml:11:5-13:41
+MERGED from [com.facebook.flipper:flipper-network-plugin:0.37.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/123d03517b8b1cd329cba800c27ee445/flipper-network-plugin-0.37.0/AndroidManifest.xml:11:5-13:41
+MERGED from [com.facebook.flipper:flipper-network-plugin:0.37.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/123d03517b8b1cd329cba800c27ee445/flipper-network-plugin-0.37.0/AndroidManifest.xml:11:5-13:41
+MERGED from [com.facebook.flipper:flipper-fresco-plugin:0.37.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/3b613cf6b7af6efdc8c87c2f7f571525/flipper-fresco-plugin-0.37.0/AndroidManifest.xml:11:5-13:41
+MERGED from [com.facebook.flipper:flipper-fresco-plugin:0.37.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/3b613cf6b7af6efdc8c87c2f7f571525/flipper-fresco-plugin-0.37.0/AndroidManifest.xml:11:5-13:41
+MERGED from [:react-native-firebase_auth] /home/pogo/Projects/react/GreyShades/node_modules/@react-native-firebase/auth/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-firebase_auth] /home/pogo/Projects/react/GreyShades/node_modules/@react-native-firebase/auth/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-firebase_database] /home/pogo/Projects/react/GreyShades/node_modules/@react-native-firebase/database/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-firebase_database] /home/pogo/Projects/react/GreyShades/node_modules/@react-native-firebase/database/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-firebase_firestore] /home/pogo/Projects/react/GreyShades/node_modules/@react-native-firebase/firestore/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-firebase_firestore] /home/pogo/Projects/react/GreyShades/node_modules/@react-native-firebase/firestore/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-firebase_functions] /home/pogo/Projects/react/GreyShades/node_modules/@react-native-firebase/functions/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-firebase_functions] /home/pogo/Projects/react/GreyShades/node_modules/@react-native-firebase/functions/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-firebase_messaging] /home/pogo/Projects/react/GreyShades/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-firebase_messaging] /home/pogo/Projects/react/GreyShades/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-firebase_storage] /home/pogo/Projects/react/GreyShades/node_modules/@react-native-firebase/storage/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-firebase_storage] /home/pogo/Projects/react/GreyShades/node_modules/@react-native-firebase/storage/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-firebase_app] /home/pogo/Projects/react/GreyShades/node_modules/@react-native-firebase/app/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-firebase_app] /home/pogo/Projects/react/GreyShades/node_modules/@react-native-firebase/app/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.multidex:multidex:2.0.1] /home/pogo/.gradle/caches/transforms-2/files-2.1/d24d84c5dd4ce3bf4f43fd4d1220b736/multidex-2.0.1/AndroidManifest.xml:20:5-43
+MERGED from [androidx.multidex:multidex:2.0.1] /home/pogo/.gradle/caches/transforms-2/files-2.1/d24d84c5dd4ce3bf4f43fd4d1220b736/multidex-2.0.1/AndroidManifest.xml:20:5-43
+MERGED from [:react-native-community_blur] /home/pogo/Projects/react/GreyShades/node_modules/@react-native-community/blur/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-community_blur] /home/pogo/Projects/react/GreyShades/node_modules/@react-native-community/blur/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-community_clipboard] /home/pogo/Projects/react/GreyShades/node_modules/@react-native-community/clipboard/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-community_clipboard] /home/pogo/Projects/react/GreyShades/node_modules/@react-native-community/clipboard/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-community_datetimepicker] /home/pogo/Projects/react/GreyShades/node_modules/@react-native-community/datetimepicker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-community_datetimepicker] /home/pogo/Projects/react/GreyShades/node_modules/@react-native-community/datetimepicker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-community_masked-view] /home/pogo/Projects/react/GreyShades/node_modules/@react-native-community/masked-view/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-community_masked-view] /home/pogo/Projects/react/GreyShades/node_modules/@react-native-community/masked-view/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-picker_picker] /home/pogo/Projects/react/GreyShades/node_modules/@react-native-picker/picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-picker_picker] /home/pogo/Projects/react/GreyShades/node_modules/@react-native-picker/picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-gesture-handler] /home/pogo/Projects/react/GreyShades/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-gesture-handler] /home/pogo/Projects/react/GreyShades/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-image-picker] /home/pogo/Projects/react/GreyShades/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-image-picker] /home/pogo/Projects/react/GreyShades/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-orientation-locker] /home/pogo/Projects/react/GreyShades/node_modules/react-native-orientation-locker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-orientation-locker] /home/pogo/Projects/react/GreyShades/node_modules/react-native-orientation-locker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-reanimated] /home/pogo/Projects/react/GreyShades/node_modules/react-native-reanimated/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-reanimated] /home/pogo/Projects/react/GreyShades/node_modules/react-native-reanimated/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-safe-area-context] /home/pogo/Projects/react/GreyShades/node_modules/react-native-safe-area-context/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-safe-area-context] /home/pogo/Projects/react/GreyShades/node_modules/react-native-safe-area-context/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-screens] /home/pogo/Projects/react/GreyShades/node_modules/react-native-screens/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-screens] /home/pogo/Projects/react/GreyShades/node_modules/react-native-screens/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-vector-icons] /home/pogo/Projects/react/GreyShades/node_modules/react-native-vector-icons/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-vector-icons] /home/pogo/Projects/react/GreyShades/node_modules/react-native-vector-icons/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-video] /home/pogo/Projects/react/GreyShades/node_modules/react-native-video/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-video] /home/pogo/Projects/react/GreyShades/node_modules/react-native-video/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.63.2] /home/pogo/.gradle/caches/transforms-2/files-2.1/a671e9fc5a82465af5ba163e937532e1/jetified-react-native-0.63.2/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.63.2] /home/pogo/.gradle/caches/transforms-2/files-2.1/a671e9fc5a82465af5ba163e937532e1/jetified-react-native-0.63.2/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/58baa160ab535252d676d32c555673df/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/58baa160ab535252d676d32c555673df/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-core:18.0.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/8310e0f0d3d03acf432add272aea5251/firebase-core-18.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-core:18.0.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/8310e0f0d3d03acf432add272aea5251/firebase-core-18.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-analytics:18.0.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/774fa9075d3c695b17ab6ff0a880efa9/firebase-analytics-18.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-analytics:18.0.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/774fa9075d3c695b17ab6ff0a880efa9/firebase-analytics-18.0.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.browser:browser:1.2.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/58a2f6dbb0b9f0e0226289605e4e5ec6/browser-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.browser:browser:1.2.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/58a2f6dbb0b9f0e0226289605e4e5ec6/browser-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [org.webkit:android-jsc:r245459] /home/pogo/.gradle/caches/transforms-2/files-2.1/55e8e1f3452caf6d45970ff2be920e33/android-jsc-r245459/AndroidManifest.xml:7:5-9:41
+MERGED from [org.webkit:android-jsc:r245459] /home/pogo/.gradle/caches/transforms-2/files-2.1/55e8e1f3452caf6d45970ff2be920e33/android-jsc-r245459/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-linear-gradient] /home/pogo/Projects/react/GreyShades/node_modules/react-native-linear-gradient/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-linear-gradient] /home/pogo/Projects/react/GreyShades/node_modules/react-native-linear-gradient/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.firebase:firebase-functions:19.1.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/a8fad71e15675428150120ebb7fef404/jetified-firebase-functions-19.1.0/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.firebase:firebase-functions:19.1.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/a8fad71e15675428150120ebb7fef404/jetified-firebase-functions-19.1.0/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.firebase:firebase-auth:20.0.1] /home/pogo/.gradle/caches/transforms-2/files-2.1/d279e6b135cb32205dcd77435bcad661/jetified-firebase-auth-20.0.1/AndroidManifest.xml:21:5-44
+MERGED from [com.google.firebase:firebase-auth:20.0.1] /home/pogo/.gradle/caches/transforms-2/files-2.1/d279e6b135cb32205dcd77435bcad661/jetified-firebase-auth-20.0.1/AndroidManifest.xml:21:5-44
+MERGED from [com.google.firebase:firebase-messaging:21.0.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/680cd98f9132cc7693c5e0e2628c9782/jetified-firebase-messaging-21.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-messaging:21.0.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/680cd98f9132cc7693c5e0e2628c9782/jetified-firebase-messaging-21.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:21.0.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/a78eb796179cddbcb73ccd400832657b/firebase-iid-21.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:21.0.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/a78eb796179cddbcb73ccd400832657b/firebase-iid-21.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-firestore:22.0.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/643490a916298e8c3d5e2b02161a3e6e/jetified-firebase-firestore-22.0.0/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.firebase:firebase-firestore:22.0.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/643490a916298e8c3d5e2b02161a3e6e/jetified-firebase-firestore-22.0.0/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.firebase:firebase-storage:19.2.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/f08b4ba8bb9b64f3db8ab21f45831ef6/firebase-storage-19.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-storage:19.2.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/f08b4ba8bb9b64f3db8ab21f45831ef6/firebase-storage-19.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-database:19.5.1] /home/pogo/.gradle/caches/transforms-2/files-2.1/4c24f1acb328b1cf4e3c08702dc67dab/firebase-database-19.5.1/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-database:19.5.1] /home/pogo/.gradle/caches/transforms-2/files-2.1/4c24f1acb328b1cf4e3c08702dc67dab/firebase-database-19.5.1/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.android.gms:play-services-measurement-api:18.0.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/6be347fc773bd3718759b2fcb64e74c7/play-services-measurement-api-18.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-api:18.0.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/6be347fc773bd3718759b2fcb64e74c7/play-services-measurement-api-18.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:19.0.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/e2aaf5f91c6641b992344f1ea98f250f/firebase-auth-interop-19.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:19.0.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/e2aaf5f91c6641b992344f1ea98f250f/firebase-auth-interop-19.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-datatransport:17.0.3] /home/pogo/.gradle/caches/transforms-2/files-2.1/c4f9a0d168992baa77ee2aeb680d0a52/firebase-datatransport-17.0.3/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-datatransport:17.0.3] /home/pogo/.gradle/caches/transforms-2/files-2.1/c4f9a0d168992baa77ee2aeb680d0a52/firebase-datatransport-17.0.3/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-installations:16.3.4] /home/pogo/.gradle/caches/transforms-2/files-2.1/dc1de0c209d52e17e0d8a11f498db4e8/firebase-installations-16.3.4/AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.firebase:firebase-installations:16.3.4] /home/pogo/.gradle/caches/transforms-2/files-2.1/dc1de0c209d52e17e0d8a11f498db4e8/firebase-installations-16.3.4/AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.firebase:firebase-common:19.4.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/c6779c6da4c20ccbe864d17a8f9bee2a/jetified-firebase-common-19.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-common:19.4.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/c6779c6da4c20ccbe864d17a8f9bee2a/jetified-firebase-common-19.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.facebook.fresco:flipper:2.2.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/7661e9e624619dad65806659b4e92ea3/flipper-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:flipper:2.2.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/7661e9e624619dad65806659b4e92ea3/flipper-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:stetho:2.2.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/10f7bfe789ba03509b31a27380eeef40/stetho-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:stetho:2.2.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/10f7bfe789ba03509b31a27380eeef40/stetho-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:2.2.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/54fd9679a5718fbf2009ddfae0774175/fresco-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:2.2.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/54fd9679a5718fbf2009ddfae0774175/fresco-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/c551e8577f67400ca38916ede5acb5fe/imagepipeline-okhttp3-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/c551e8577f67400ca38916ede5acb5fe/imagepipeline-okhttp3-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.2.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/5e857249bc93d7ff31520804b3a1509f/drawee-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.2.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/5e857249bc93d7ff31520804b3a1509f/drawee-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.2.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/b6229222cbd11a6b47ffa53815aff93a/nativeimagefilters-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.2.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/b6229222cbd11a6b47ffa53815aff93a/nativeimagefilters-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-native:2.2.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/65d7bc8f0c86f952567389796f9e4f89/memory-type-native-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-native:2.2.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/65d7bc8f0c86f952567389796f9e4f89/memory-type-native-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-java:2.2.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/a65761e9c2d43267606236e74c12cf4a/memory-type-java-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-java:2.2.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/a65761e9c2d43267606236e74c12cf4a/memory-type-java-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-native:2.2.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/a32e79a319e3e4796f52017cbac9ed6e/imagepipeline-native-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-native:2.2.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/a32e79a319e3e4796f52017cbac9ed6e/imagepipeline-native-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-ashmem:2.2.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/11b4b4977164ac3367506aa7937777f4/memory-type-ashmem-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-ashmem:2.2.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/11b4b4977164ac3367506aa7937777f4/memory-type-ashmem-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.2.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/91f8378d14653cd736a23ea91c7363ac/imagepipeline-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.2.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/91f8378d14653cd736a23ea91c7363ac/imagepipeline-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.2.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/e4249928cdfb41a6e082a755907bc886/nativeimagetranscoder-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.2.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/e4249928cdfb41a6e082a755907bc886/nativeimagetranscoder-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.2.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/ffd7d2ad5d0a8492064b8d430ba6992a/imagepipeline-base-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.2.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/ffd7d2ad5d0a8492064b8d430ba6992a/imagepipeline-base-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:soloader:2.2.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/a2583e3d81e87b403a50e987914e4491/soloader-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:soloader:2.2.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/a2583e3d81e87b403a50e987914e4491/soloader-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.8.2] /home/pogo/.gradle/caches/transforms-2/files-2.1/c7559202d3ccc4e07ee25529094c7982/soloader-0.8.2/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.8.2] /home/pogo/.gradle/caches/transforms-2/files-2.1/c7559202d3ccc4e07ee25529094c7982/soloader-0.8.2/AndroidManifest.xml:7:5-9:41
+MERGED from [io.grpc:grpc-android:1.28.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/6e9a2b5e51e38fb87390c86765a9895f/grpc-android-1.28.0/AndroidManifest.xml:7:5-9:41
+MERGED from [io.grpc:grpc-android:1.28.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/6e9a2b5e51e38fb87390c86765a9895f/grpc-android-1.28.0/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.material:material:1.1.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/dd5b18c4f8a1c4aba0a4f23dae64f838/material-1.1.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.1.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/dd5b18c4f8a1c4aba0a4f23dae64f838/material-1.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.1.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/daa3c2686a1605e889aa91397aeb3607/appcompat-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/daa3c2686a1605e889aa91397aeb3607/appcompat-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.2.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/3116d236fbef1dcdfacb6517e9bed953/transport-backend-cct-2.2.0/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.2.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/3116d236fbef1dcdfacb6517e9bed953/transport-backend-cct-2.2.0/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/720db66f8004ac21031e2222069601f3/transport-runtime-2.2.0/AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/720db66f8004ac21031e2222069601f3/transport-runtime-2.2.0/AndroidManifest.xml:18:5-20:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/0caea8347a9ef397f8895a8063f94371/appcompat-resources-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/0caea8347a9ef397f8895a8063f94371/appcompat-resources-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/fe8e71e101cbaf528cc486072ed4c28e/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/fe8e71e101cbaf528cc486072ed4c28e/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/b78a5399ea9beee523afeb7dc0d01a7c/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/b78a5399ea9beee523afeb7dc0d01a7c/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth:18.1.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/0a126c1774474d2c805168dde34a9862/play-services-auth-18.1.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth:18.1.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/0a126c1774474d2c805168dde34a9862/play-services-auth-18.1.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:17.0.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/84ed3e8f28836a33e45a4835bbd8bbf3/play-services-auth-base-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:17.0.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/84ed3e8f28836a33e45a4835bbd8bbf3/play-services-auth-base-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:17.4.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/5fea104bf0595ef6b3cd3e78ccd6a40a/play-services-auth-api-phone-17.4.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:17.4.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/5fea104bf0595ef6b3cd3e78ccd6a40a/play-services-auth-api-phone-17.4.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-safetynet:17.0.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/877517e360ec51b39d57af412d761f93/play-services-safetynet-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-safetynet:17.0.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/877517e360ec51b39d57af412d761f93/play-services-safetynet-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-database-collection:17.0.1] /home/pogo/.gradle/caches/transforms-2/files-2.1/3f44d7d3fdefd898bddc7675367c4222/firebase-database-collection-17.0.1/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-database-collection:17.0.1] /home/pogo/.gradle/caches/transforms-2/files-2.1/3f44d7d3fdefd898bddc7675367c4222/firebase-database-collection-17.0.1/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/00f912dd79aab32f85042db58a22ea75/firebase-iid-interop-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/00f912dd79aab32f85042db58a22ea75/firebase-iid-interop-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:17.1.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/d3caf54114e86177d18237a7364d1766/play-services-base-17.1.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:17.1.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/d3caf54114e86177d18237a7364d1766/play-services-base-17.1.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement:18.0.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/6f74dcac7c5d27c507231f5c02635066/play-services-measurement-18.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement:18.0.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/6f74dcac7c5d27c507231f5c02635066/play-services-measurement-18.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk:18.0.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/f7b1f45115a87edaa44daf4a091ad786/play-services-measurement-sdk-18.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk:18.0.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/f7b1f45115a87edaa44daf4a091ad786/play-services-measurement-sdk-18.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-cloud-messaging:16.0.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/2358f4dcbde0ef87bad7724948ba82bd/play-services-cloud-messaging-16.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-cloud-messaging:16.0.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/2358f4dcbde0ef87bad7724948ba82bd/play-services-cloud-messaging-16.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-installations-interop:16.0.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/953c5f4b931f703e79a54c986717cc59/firebase-installations-interop-16.0.0/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-installations-interop:16.0.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/953c5f4b931f703e79a54c986717cc59/firebase-installations-interop-16.0.0/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/b6f6af6420887caf6605401baa4017e8/play-services-tasks-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/b6f6af6420887caf6605401baa4017e8/play-services-tasks-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement-impl:18.0.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/b63be9ff7deb386b2f72a29307370119/play-services-measurement-impl-18.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-impl:18.0.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/b63be9ff7deb386b2f72a29307370119/play-services-measurement-impl-18.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/8f334b67506522435461c8c6eda7b7c8/play-services-stats-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/8f334b67506522435461c8c6eda7b7c8/play-services-stats-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/820e61501446d59a69cd9c408eee66fc/firebase-measurement-connector-18.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/820e61501446d59a69cd9c408eee66fc/firebase-measurement-connector-18.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/dd29c8e6f67f843d81024726fecce8df/play-services-ads-identifier-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/dd29c8e6f67f843d81024726fecce8df/play-services-ads-identifier-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:18.0.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/8dda47963163659db4730972d420a819/play-services-measurement-sdk-api-18.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:18.0.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/8dda47963163659db4730972d420a819/play-services-measurement-sdk-api-18.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:18.0.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/c3f6bd9e389918ad34b33617ede329ca/play-services-measurement-base-18.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:18.0.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/c3f6bd9e389918ad34b33617ede329ca/play-services-measurement-base-18.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.1.1] /home/pogo/.gradle/caches/transforms-2/files-2.1/3cdbfbe24ad8b96616b3cbd2c86974b9/jetified-play-services-basement-17.1.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.1.1] /home/pogo/.gradle/caches/transforms-2/files-2.1/3cdbfbe24ad8b96616b3cbd2c86974b9/jetified-play-services-basement-17.1.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/3dcac4ee1e31a1fe1b0474d9dc513a90/viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/3dcac4ee1e31a1fe1b0474d9dc513a90/viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.2.1] /home/pogo/.gradle/caches/transforms-2/files-2.1/c1c46489f35b38cfcb0b9269375d66c1/fragment-1.2.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.2.1] /home/pogo/.gradle/caches/transforms-2/files-2.1/c1c46489f35b38cfcb0b9269375d66c1/fragment-1.2.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/725e8067965810ebb015effb02057ed4/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/725e8067965810ebb015effb02057ed4/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/4b2f76bfb138c3d04b4fdb7e4a57c3f4/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/4b2f76bfb138c3d04b4fdb7e4a57c3f4/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/d0b76de50009d02ae3a61625e9c61668/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/d0b76de50009d02ae3a61625e9c61668/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/a2a604909fa57d86b75cb00eccc5776f/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/a2a604909fa57d86b75cb00eccc5776f/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/d9dd1f832330f9830d5573b2c42f64c9/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/d9dd1f832330f9830d5573b2c42f64c9/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.1.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/c2e91d6650bc8b924caae233b030e4cd/activity-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.1.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/c2e91d6650bc8b924caae233b030e4cd/activity-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/1c827ac73b6372482a4fe73492ae0bb0/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/1c827ac73b6372482a4fe73492ae0bb0/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/ccf906420216b35becd418efa8fead91/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/ccf906420216b35becd418efa8fead91/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.2.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/ab13f194898fca16e8460c32b937ffd6/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/ab13f194898fca16e8460c32b937ffd6/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/cc3310bf2a05cbbcef60a1b19b9e1498/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/cc3310bf2a05cbbcef60a1b19b9e1498/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/6466522822c9f31c5107b8fc2277998a/core-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/6466522822c9f31c5107b8fc2277998a/core-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/807919ccc837c4755749abf0f5f0d63e/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/807919ccc837c4755749abf0f5f0d63e/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.eightbitlab:blurview:1.6.3] /home/pogo/.gradle/caches/transforms-2/files-2.1/93923440f695e030fe841d360c8092ef/jetified-blurview-1.6.3/AndroidManifest.xml:5:5-7:41
+MERGED from [com.eightbitlab:blurview:1.6.3] /home/pogo/.gradle/caches/transforms-2/files-2.1/93923440f695e030fe841d360c8092ef/jetified-blurview-1.6.3/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/0b3e62c1c3d0576dcdde711531c287ce/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/0b3e62c1c3d0576dcdde711531c287ce/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-components:16.0.1] /home/pogo/.gradle/caches/transforms-2/files-2.1/9f2443543d99d2a55c146b7ccdded412/jetified-firebase-components-16.0.1/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-components:16.0.1] /home/pogo/.gradle/caches/transforms-2/files-2.1/9f2443543d99d2a55c146b7ccdded412/jetified-firebase-components-16.0.1/AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/2e5454e2986d1d25881079122bbcdfbd/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/2e5454e2986d1d25881079122bbcdfbd/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-encoders-json:16.0.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/8165f642d34d694f67d7935b5993c9c2/firebase-encoders-json-16.0.0/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-encoders-json:16.0.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/8165f642d34d694f67d7935b5993c9c2/firebase-encoders-json-16.0.0/AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/f58aded31185cc85b75b4af5bf41d6f0/lifecycle-viewmodel-savedstate-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/f58aded31185cc85b75b4af5bf41d6f0/lifecycle-viewmodel-savedstate-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/aff266cae9a718e77c99431eda2bbce4/lifecycle-viewmodel-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/aff266cae9a718e77c99431eda2bbce4/lifecycle-viewmodel-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/2b77b338008a4a033ff8141ea7e2f236/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/2b77b338008a4a033ff8141ea7e2f236/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/c51f7beee8d8db2ab039c1193fc5997d/lifecycle-runtime-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/c51f7beee8d8db2ab039c1193fc5997d/lifecycle-runtime-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/c8d258fe89319cd1a6e24defa826748c/savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/c8d258fe89319cd1a6e24defa826748c/savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/3b24523c209e746f364d111262620408/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/3b24523c209e746f364d111262620408/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/e18268382524a2d97ab46f9add103737/lifecycle-livedata-core-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/e18268382524a2d97ab46f9add103737/lifecycle-livedata-core-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/494632bb32bdcfc5b91d889511f3dd1c/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/494632bb32bdcfc5b91d889511f3dd1c/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/af933a2f9189f43c4e1943e87eaab436/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/af933a2f9189f43c4e1943e87eaab436/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/420f57a583860cab9badbb9394b4cf41/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/420f57a583860cab9badbb9394b4cf41/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.yqritc:android-scalablevideoview:1.0.4] /home/pogo/.gradle/caches/transforms-2/files-2.1/0e15d70dce58bd5f69e7d6bb3d349703/jetified-android-scalablevideoview-1.0.4/AndroidManifest.xml:8:5-10:41
+MERGED from [com.yqritc:android-scalablevideoview:1.0.4] /home/pogo/.gradle/caches/transforms-2/files-2.1/0e15d70dce58bd5f69e7d6bb3d349703/jetified-android-scalablevideoview-1.0.4/AndroidManifest.xml:8:5-10:41
+MERGED from [com.facebook.soloader:annotation:0.8.2] /home/pogo/.gradle/caches/transforms-2/files-2.1/245921b26abc389f933651f84a312797/annotation-0.8.2/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:annotation:0.8.2] /home/pogo/.gradle/caches/transforms-2/files-2.1/245921b26abc389f933651f84a312797/annotation-0.8.2/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.fresco:fbcore:2.2.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/664c4ded34c6b705e6f3c3a23ca614de/jetified-fbcore-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:2.2.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/664c4ded34c6b705e6f3c3a23ca614de/jetified-fbcore-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:ui-common:2.2.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/9adc472a0276fe390f3f8a0c0f125417/ui-common-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:ui-common:2.2.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/9adc472a0276fe390f3f8a0c0f125417/ui-common-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:protolite-well-known-types:17.1.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/aa0cc9b76432c331f2724e42f2d6d6ca/protolite-well-known-types-17.1.0/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.firebase:protolite-well-known-types:17.1.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/aa0cc9b76432c331f2724e42f2d6d6ca/protolite-well-known-types-17.1.0/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.datatransport:transport-api:2.2.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/f737253eef0d1a405c63ad080c77c4d3/transport-api-2.2.0/AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.android.datatransport:transport-api:2.2.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/f737253eef0d1a405c63ad080c77c4d3/transport-api-2.2.0/AndroidManifest.xml:18:5-20:41
+INJECTED from /home/pogo/Projects/react/GreyShades/android/app/src/debug/AndroidManifest.xml
+INJECTED from /home/pogo/Projects/react/GreyShades/android/app/src/debug/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/pogo/Projects/react/GreyShades/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/pogo/Projects/react/GreyShades/android/app/src/debug/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/pogo/Projects/react/GreyShades/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/pogo/Projects/react/GreyShades/android/app/src/debug/AndroidManifest.xml
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from /home/pogo/Projects/react/GreyShades/android/app/src/debug/AndroidManifest.xml:5:5-77
+	android:name
+		ADDED from /home/pogo/Projects/react/GreyShades/android/app/src/debug/AndroidManifest.xml:5:22-75
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from [com.facebook.flipper:flipper:0.37.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/f83c0d1c0de52875b561162f0ef0d310/flipper-0.37.0/AndroidManifest.xml:16:5-76
+	android:name
+		ADDED from [com.facebook.flipper:flipper:0.37.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/f83c0d1c0de52875b561162f0ef0d310/flipper-0.37.0/AndroidManifest.xml:16:22-73
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [:react-native-firebase_auth] /home/pogo/Projects/react/GreyShades/node_modules/@react-native-firebase/auth/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:5-68
+MERGED from [:react-native-firebase_database] /home/pogo/Projects/react/GreyShades/node_modules/@react-native-firebase/database/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:5-68
+MERGED from [:react-native-firebase_database] /home/pogo/Projects/react/GreyShades/node_modules/@react-native-firebase/database/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:5-68
+MERGED from [:react-native-firebase_messaging] /home/pogo/Projects/react/GreyShades/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:5-68
+MERGED from [:react-native-firebase_messaging] /home/pogo/Projects/react/GreyShades/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:5-68
+MERGED from [:react-native-firebase_storage] /home/pogo/Projects/react/GreyShades/node_modules/@react-native-firebase/storage/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:5-68
+MERGED from [:react-native-firebase_storage] /home/pogo/Projects/react/GreyShades/node_modules/@react-native-firebase/storage/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:5-68
+MERGED from [com.google.firebase:firebase-iid:21.0.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/a78eb796179cddbcb73ccd400832657b/firebase-iid-21.0.0/AndroidManifest.xml:24:5-68
+MERGED from [com.google.firebase:firebase-iid:21.0.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/a78eb796179cddbcb73ccd400832657b/firebase-iid-21.0.0/AndroidManifest.xml:24:5-68
+MERGED from [com.google.android.gms:play-services-measurement-api:18.0.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/6be347fc773bd3718759b2fcb64e74c7/play-services-measurement-api-18.0.0/AndroidManifest.xml:24:5-68
+MERGED from [com.google.android.gms:play-services-measurement-api:18.0.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/6be347fc773bd3718759b2fcb64e74c7/play-services-measurement-api-18.0.0/AndroidManifest.xml:24:5-68
+MERGED from [com.google.android.gms:play-services-measurement:18.0.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/6f74dcac7c5d27c507231f5c02635066/play-services-measurement-18.0.0/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement:18.0.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/6f74dcac7c5d27c507231f5c02635066/play-services-measurement-18.0.0/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-cloud-messaging:16.0.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/2358f4dcbde0ef87bad7724948ba82bd/play-services-cloud-messaging-16.0.0/AndroidManifest.xml:9:5-68
+MERGED from [com.google.android.gms:play-services-cloud-messaging:16.0.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/2358f4dcbde0ef87bad7724948ba82bd/play-services-cloud-messaging-16.0.0/AndroidManifest.xml:9:5-68
+MERGED from [com.google.android.gms:play-services-measurement-impl:18.0.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/b63be9ff7deb386b2f72a29307370119/play-services-measurement-impl-18.0.0/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-impl:18.0.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/b63be9ff7deb386b2f72a29307370119/play-services-measurement-impl-18.0.0/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:18.0.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/8dda47963163659db4730972d420a819/play-services-measurement-sdk-api-18.0.0/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:18.0.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/8dda47963163659db4730972d420a819/play-services-measurement-sdk-api-18.0.0/AndroidManifest.xml:25:5-68
+	android:name
+		ADDED from [:react-native-firebase_auth] /home/pogo/Projects/react/GreyShades/node_modules/@react-native-firebase/auth/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:22-65
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [:react-native-firebase_auth] /home/pogo/Projects/react/GreyShades/node_modules/@react-native-firebase/auth/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:13:5-79
+MERGED from [:react-native-firebase_database] /home/pogo/Projects/react/GreyShades/node_modules/@react-native-firebase/database/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:13:5-79
+MERGED from [:react-native-firebase_database] /home/pogo/Projects/react/GreyShades/node_modules/@react-native-firebase/database/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:13:5-79
+MERGED from [:react-native-firebase_functions] /home/pogo/Projects/react/GreyShades/node_modules/@react-native-firebase/functions/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:5-79
+MERGED from [:react-native-firebase_functions] /home/pogo/Projects/react/GreyShades/node_modules/@react-native-firebase/functions/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:5-79
+MERGED from [:react-native-firebase_messaging] /home/pogo/Projects/react/GreyShades/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:13:5-79
+MERGED from [:react-native-firebase_messaging] /home/pogo/Projects/react/GreyShades/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:13:5-79
+MERGED from [:react-native-firebase_storage] /home/pogo/Projects/react/GreyShades/node_modules/@react-native-firebase/storage/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:13:5-79
+MERGED from [:react-native-firebase_storage] /home/pogo/Projects/react/GreyShades/node_modules/@react-native-firebase/storage/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:13:5-79
+MERGED from [com.google.firebase:firebase-auth:20.0.1] /home/pogo/.gradle/caches/transforms-2/files-2.1/d279e6b135cb32205dcd77435bcad661/jetified-firebase-auth-20.0.1/AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-auth:20.0.1] /home/pogo/.gradle/caches/transforms-2/files-2.1/d279e6b135cb32205dcd77435bcad661/jetified-firebase-auth-20.0.1/AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-iid:21.0.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/a78eb796179cddbcb73ccd400832657b/firebase-iid-21.0.0/AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-iid:21.0.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/a78eb796179cddbcb73ccd400832657b/firebase-iid-21.0.0/AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-firestore:22.0.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/643490a916298e8c3d5e2b02161a3e6e/jetified-firebase-firestore-22.0.0/AndroidManifest.xml:13:5-79
+MERGED from [com.google.firebase:firebase-firestore:22.0.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/643490a916298e8c3d5e2b02161a3e6e/jetified-firebase-firestore-22.0.0/AndroidManifest.xml:13:5-79
+MERGED from [com.google.firebase:firebase-storage:19.2.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/f08b4ba8bb9b64f3db8ab21f45831ef6/firebase-storage-19.2.0/AndroidManifest.xml:26:5-79
+MERGED from [com.google.firebase:firebase-storage:19.2.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/f08b4ba8bb9b64f3db8ab21f45831ef6/firebase-storage-19.2.0/AndroidManifest.xml:26:5-79
+MERGED from [com.google.firebase:firebase-database:19.5.1] /home/pogo/.gradle/caches/transforms-2/files-2.1/4c24f1acb328b1cf4e3c08702dc67dab/firebase-database-19.5.1/AndroidManifest.xml:25:5-79
+MERGED from [com.google.firebase:firebase-database:19.5.1] /home/pogo/.gradle/caches/transforms-2/files-2.1/4c24f1acb328b1cf4e3c08702dc67dab/firebase-database-19.5.1/AndroidManifest.xml:25:5-79
+MERGED from [com.google.android.gms:play-services-measurement-api:18.0.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/6be347fc773bd3718759b2fcb64e74c7/play-services-measurement-api-18.0.0/AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-measurement-api:18.0.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/6be347fc773bd3718759b2fcb64e74c7/play-services-measurement-api-18.0.0/AndroidManifest.xml:23:5-79
+MERGED from [com.google.firebase:firebase-installations:16.3.4] /home/pogo/.gradle/caches/transforms-2/files-2.1/dc1de0c209d52e17e0d8a11f498db4e8/firebase-installations-16.3.4/AndroidManifest.xml:10:5-79
+MERGED from [com.google.firebase:firebase-installations:16.3.4] /home/pogo/.gradle/caches/transforms-2/files-2.1/dc1de0c209d52e17e0d8a11f498db4e8/firebase-installations-16.3.4/AndroidManifest.xml:10:5-79
+MERGED from [io.grpc:grpc-android:1.28.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/6e9a2b5e51e38fb87390c86765a9895f/grpc-android-1.28.0/AndroidManifest.xml:11:5-79
+MERGED from [io.grpc:grpc-android:1.28.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/6e9a2b5e51e38fb87390c86765a9895f/grpc-android-1.28.0/AndroidManifest.xml:11:5-79
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.2.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/3116d236fbef1dcdfacb6517e9bed953/transport-backend-cct-2.2.0/AndroidManifest.xml:25:5-79
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.2.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/3116d236fbef1dcdfacb6517e9bed953/transport-backend-cct-2.2.0/AndroidManifest.xml:25:5-79
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/720db66f8004ac21031e2222069601f3/transport-runtime-2.2.0/AndroidManifest.xml:22:5-79
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/720db66f8004ac21031e2222069601f3/transport-runtime-2.2.0/AndroidManifest.xml:22:5-79
+MERGED from [com.google.android.gms:play-services-measurement:18.0.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/6f74dcac7c5d27c507231f5c02635066/play-services-measurement-18.0.0/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement:18.0.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/6f74dcac7c5d27c507231f5c02635066/play-services-measurement-18.0.0/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-cloud-messaging:16.0.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/2358f4dcbde0ef87bad7724948ba82bd/play-services-cloud-messaging-16.0.0/AndroidManifest.xml:7:5-79
+MERGED from [com.google.android.gms:play-services-cloud-messaging:16.0.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/2358f4dcbde0ef87bad7724948ba82bd/play-services-cloud-messaging-16.0.0/AndroidManifest.xml:7:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:18.0.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/b63be9ff7deb386b2f72a29307370119/play-services-measurement-impl-18.0.0/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:18.0.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/b63be9ff7deb386b2f72a29307370119/play-services-measurement-impl-18.0.0/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:18.0.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/8dda47963163659db4730972d420a819/play-services-measurement-sdk-api-18.0.0/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:18.0.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/8dda47963163659db4730972d420a819/play-services-measurement-sdk-api-18.0.0/AndroidManifest.xml:24:5-79
+	android:name
+		ADDED from [:react-native-firebase_auth] /home/pogo/Projects/react/GreyShades/node_modules/@react-native-firebase/auth/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:13:22-76
+service#io.invertase.firebase.messaging.ReactNativeFirebaseMessagingHeadlessService
+ADDED from [:react-native-firebase_messaging] /home/pogo/Projects/react/GreyShades/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:16:9-111
+	android:name
+		ADDED from [:react-native-firebase_messaging] /home/pogo/Projects/react/GreyShades/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:16:18-108
+service#io.invertase.firebase.messaging.ReactNativeFirebaseMessagingService
+ADDED from [:react-native-firebase_messaging] /home/pogo/Projects/react/GreyShades/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:17:9-23:19
+	android:exported
+		ADDED from [:react-native-firebase_messaging] /home/pogo/Projects/react/GreyShades/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:19:13-37
+	android:name
+		ADDED from [:react-native-firebase_messaging] /home/pogo/Projects/react/GreyShades/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:18:13-95
+intent-filter#action:name:com.google.firebase.MESSAGING_EVENT
+ADDED from [:react-native-firebase_messaging] /home/pogo/Projects/react/GreyShades/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:20:13-22:29
+action#com.google.firebase.MESSAGING_EVENT
+ADDED from [:react-native-firebase_messaging] /home/pogo/Projects/react/GreyShades/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:21:17-78
+	android:name
+		ADDED from [:react-native-firebase_messaging] /home/pogo/Projects/react/GreyShades/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:21:25-75
+receiver#io.invertase.firebase.messaging.ReactNativeFirebaseMessagingReceiver
+ADDED from [:react-native-firebase_messaging] /home/pogo/Projects/react/GreyShades/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:25:9-32:20
+	android:exported
+		ADDED from [:react-native-firebase_messaging] /home/pogo/Projects/react/GreyShades/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:27:13-36
+	android:permission
+		ADDED from [:react-native-firebase_messaging] /home/pogo/Projects/react/GreyShades/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:28:13-73
+	android:name
+		ADDED from [:react-native-firebase_messaging] /home/pogo/Projects/react/GreyShades/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:26:13-96
+intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE
+ADDED from [:react-native-firebase_messaging] /home/pogo/Projects/react/GreyShades/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:29:13-31:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [:react-native-firebase_messaging] /home/pogo/Projects/react/GreyShades/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:30:17-81
+	android:name
+		ADDED from [:react-native-firebase_messaging] /home/pogo/Projects/react/GreyShades/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:30:25-78
+meta-data#firebase_messaging_auto_init_enabled
+ADDED from [:react-native-firebase_messaging] /home/pogo/Projects/react/GreyShades/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:34:9-36:36
+	android:value
+		ADDED from [:react-native-firebase_messaging] /home/pogo/Projects/react/GreyShades/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:36:13-33
+	android:name
+		ADDED from [:react-native-firebase_messaging] /home/pogo/Projects/react/GreyShades/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:35:13-64
+meta-data#com.google.firebase.messaging.default_notification_channel_id
+ADDED from [:react-native-firebase_messaging] /home/pogo/Projects/react/GreyShades/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:37:9-39:32
+	android:value
+		ADDED from [:react-native-firebase_messaging] /home/pogo/Projects/react/GreyShades/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:39:13-29
+	android:name
+		ADDED from [:react-native-firebase_messaging] /home/pogo/Projects/react/GreyShades/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:38:13-89
+meta-data#com.google.firebase.messaging.default_notification_color
+ADDED from [:react-native-firebase_messaging] /home/pogo/Projects/react/GreyShades/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:40:9-42:47
+	android:resource
+		ADDED from [:react-native-firebase_messaging] /home/pogo/Projects/react/GreyShades/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:42:13-44
+	android:name
+		ADDED from [:react-native-firebase_messaging] /home/pogo/Projects/react/GreyShades/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:41:13-84
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from [:react-native-firebase_storage] /home/pogo/Projects/react/GreyShades/node_modules/@react-native-firebase/storage/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:15:5-80
+	android:name
+		ADDED from [:react-native-firebase_storage] /home/pogo/Projects/react/GreyShades/node_modules/@react-native-firebase/storage/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:15:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from [:react-native-firebase_storage] /home/pogo/Projects/react/GreyShades/node_modules/@react-native-firebase/storage/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:16:5-81
+	android:name
+		ADDED from [:react-native-firebase_storage] /home/pogo/Projects/react/GreyShades/node_modules/@react-native-firebase/storage/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:16:22-78
+provider#com.imagepicker.FileProvider
+ADDED from [:react-native-image-picker] /home/pogo/Projects/react/GreyShades/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:10:9-18:20
+	android:grantUriPermissions
+		ADDED from [:react-native-image-picker] /home/pogo/Projects/react/GreyShades/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:14:13-47
+	android:authorities
+		ADDED from [:react-native-image-picker] /home/pogo/Projects/react/GreyShades/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:13-60
+	android:exported
+		ADDED from [:react-native-image-picker] /home/pogo/Projects/react/GreyShades/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:13:13-37
+	android:name
+		ADDED from [:react-native-image-picker] /home/pogo/Projects/react/GreyShades/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:13-56
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from [:react-native-image-picker] /home/pogo/Projects/react/GreyShades/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:15:13-17:58
+	android:resource
+		ADDED from [:react-native-image-picker] /home/pogo/Projects/react/GreyShades/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:17:17-55
+	android:name
+		ADDED from [:react-native-image-picker] /home/pogo/Projects/react/GreyShades/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:16:17-67
+service#com.google.firebase.components.ComponentDiscoveryService
+ADDED from [com.google.firebase:firebase-functions:19.1.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/a8fad71e15675428150120ebb7fef404/jetified-firebase-functions-19.1.0/AndroidManifest.xml:15:9-21:19
+MERGED from [com.google.firebase:firebase-auth:20.0.1] /home/pogo/.gradle/caches/transforms-2/files-2.1/d279e6b135cb32205dcd77435bcad661/jetified-firebase-auth-20.0.1/AndroidManifest.xml:74:9-80:19
+MERGED from [com.google.firebase:firebase-auth:20.0.1] /home/pogo/.gradle/caches/transforms-2/files-2.1/d279e6b135cb32205dcd77435bcad661/jetified-firebase-auth-20.0.1/AndroidManifest.xml:74:9-80:19
+MERGED from [com.google.firebase:firebase-messaging:21.0.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/680cd98f9132cc7693c5e0e2628c9782/jetified-firebase-messaging-21.0.0/AndroidManifest.xml:36:9-42:19
+MERGED from [com.google.firebase:firebase-messaging:21.0.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/680cd98f9132cc7693c5e0e2628c9782/jetified-firebase-messaging-21.0.0/AndroidManifest.xml:36:9-42:19
+MERGED from [com.google.firebase:firebase-iid:21.0.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/a78eb796179cddbcb73ccd400832657b/firebase-iid-21.0.0/AndroidManifest.xml:29:9-35:19
+MERGED from [com.google.firebase:firebase-iid:21.0.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/a78eb796179cddbcb73ccd400832657b/firebase-iid-21.0.0/AndroidManifest.xml:29:9-35:19
+MERGED from [com.google.firebase:firebase-firestore:22.0.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/643490a916298e8c3d5e2b02161a3e6e/jetified-firebase-firestore-22.0.0/AndroidManifest.xml:17:9-23:19
+MERGED from [com.google.firebase:firebase-firestore:22.0.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/643490a916298e8c3d5e2b02161a3e6e/jetified-firebase-firestore-22.0.0/AndroidManifest.xml:17:9-23:19
+MERGED from [com.google.firebase:firebase-storage:19.2.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/f08b4ba8bb9b64f3db8ab21f45831ef6/firebase-storage-19.2.0/AndroidManifest.xml:30:9-36:19
+MERGED from [com.google.firebase:firebase-storage:19.2.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/f08b4ba8bb9b64f3db8ab21f45831ef6/firebase-storage-19.2.0/AndroidManifest.xml:30:9-36:19
+MERGED from [com.google.firebase:firebase-database:19.5.1] /home/pogo/.gradle/caches/transforms-2/files-2.1/4c24f1acb328b1cf4e3c08702dc67dab/firebase-database-19.5.1/AndroidManifest.xml:29:9-35:19
+MERGED from [com.google.firebase:firebase-database:19.5.1] /home/pogo/.gradle/caches/transforms-2/files-2.1/4c24f1acb328b1cf4e3c08702dc67dab/firebase-database-19.5.1/AndroidManifest.xml:29:9-35:19
+MERGED from [com.google.android.gms:play-services-measurement-api:18.0.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/6be347fc773bd3718759b2fcb64e74c7/play-services-measurement-api-18.0.0/AndroidManifest.xml:27:9-33:19
+MERGED from [com.google.android.gms:play-services-measurement-api:18.0.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/6be347fc773bd3718759b2fcb64e74c7/play-services-measurement-api-18.0.0/AndroidManifest.xml:27:9-33:19
+MERGED from [com.google.firebase:firebase-datatransport:17.0.3] /home/pogo/.gradle/caches/transforms-2/files-2.1/c4f9a0d168992baa77ee2aeb680d0a52/firebase-datatransport-17.0.3/AndroidManifest.xml:25:9-31:19
+MERGED from [com.google.firebase:firebase-datatransport:17.0.3] /home/pogo/.gradle/caches/transforms-2/files-2.1/c4f9a0d168992baa77ee2aeb680d0a52/firebase-datatransport-17.0.3/AndroidManifest.xml:25:9-31:19
+MERGED from [com.google.firebase:firebase-installations:16.3.4] /home/pogo/.gradle/caches/transforms-2/files-2.1/dc1de0c209d52e17e0d8a11f498db4e8/firebase-installations-16.3.4/AndroidManifest.xml:15:9-21:19
+MERGED from [com.google.firebase:firebase-installations:16.3.4] /home/pogo/.gradle/caches/transforms-2/files-2.1/dc1de0c209d52e17e0d8a11f498db4e8/firebase-installations-16.3.4/AndroidManifest.xml:15:9-21:19
+MERGED from [com.google.firebase:firebase-common:19.4.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/c6779c6da4c20ccbe864d17a8f9bee2a/jetified-firebase-common-19.4.0/AndroidManifest.xml:33:9-37:35
+MERGED from [com.google.firebase:firebase-common:19.4.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/c6779c6da4c20ccbe864d17a8f9bee2a/jetified-firebase-common-19.4.0/AndroidManifest.xml:33:9-37:35
+	android:exported
+		ADDED from [com.google.firebase:firebase-functions:19.1.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/a8fad71e15675428150120ebb7fef404/jetified-firebase-functions-19.1.0/AndroidManifest.xml:17:13-37
+	tools:targetApi
+		ADDED from [com.google.firebase:firebase-common:19.4.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/c6779c6da4c20ccbe864d17a8f9bee2a/jetified-firebase-common-19.4.0/AndroidManifest.xml:37:13-32
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-common:19.4.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/c6779c6da4c20ccbe864d17a8f9bee2a/jetified-firebase-common-19.4.0/AndroidManifest.xml:35:13-43
+	android:name
+		ADDED from [com.google.firebase:firebase-functions:19.1.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/a8fad71e15675428150120ebb7fef404/jetified-firebase-functions-19.1.0/AndroidManifest.xml:16:13-84
+meta-data#com.google.firebase.components:com.google.firebase.functions.FunctionsRegistrar
+ADDED from [com.google.firebase:firebase-functions:19.1.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/a8fad71e15675428150120ebb7fef404/jetified-firebase-functions-19.1.0/AndroidManifest.xml:18:13-20:85
+	android:value
+		ADDED from [com.google.firebase:firebase-functions:19.1.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/a8fad71e15675428150120ebb7fef404/jetified-firebase-functions-19.1.0/AndroidManifest.xml:20:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-functions:19.1.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/a8fad71e15675428150120ebb7fef404/jetified-firebase-functions-19.1.0/AndroidManifest.xml:19:17-111
+activity#com.google.firebase.auth.internal.GenericIdpActivity
+ADDED from [com.google.firebase:firebase-auth:20.0.1] /home/pogo/.gradle/caches/transforms-2/files-2.1/d279e6b135cb32205dcd77435bcad661/jetified-firebase-auth-20.0.1/AndroidManifest.xml:27:9-44:20
+	android:excludeFromRecents
+		ADDED from [com.google.firebase:firebase-auth:20.0.1] /home/pogo/.gradle/caches/transforms-2/files-2.1/d279e6b135cb32205dcd77435bcad661/jetified-firebase-auth-20.0.1/AndroidManifest.xml:29:13-46
+	android:launchMode
+		ADDED from [com.google.firebase:firebase-auth:20.0.1] /home/pogo/.gradle/caches/transforms-2/files-2.1/d279e6b135cb32205dcd77435bcad661/jetified-firebase-auth-20.0.1/AndroidManifest.xml:31:13-44
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:20.0.1] /home/pogo/.gradle/caches/transforms-2/files-2.1/d279e6b135cb32205dcd77435bcad661/jetified-firebase-auth-20.0.1/AndroidManifest.xml:30:13-36
+	android:theme
+		ADDED from [com.google.firebase:firebase-auth:20.0.1] /home/pogo/.gradle/caches/transforms-2/files-2.1/d279e6b135cb32205dcd77435bcad661/jetified-firebase-auth-20.0.1/AndroidManifest.xml:32:13-72
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:20.0.1] /home/pogo/.gradle/caches/transforms-2/files-2.1/d279e6b135cb32205dcd77435bcad661/jetified-firebase-auth-20.0.1/AndroidManifest.xml:28:13-80
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:firebase.auth+data:path:/+data:scheme:genericidp
+ADDED from [com.google.firebase:firebase-auth:20.0.1] /home/pogo/.gradle/caches/transforms-2/files-2.1/d279e6b135cb32205dcd77435bcad661/jetified-firebase-auth-20.0.1/AndroidManifest.xml:33:13-43:29
+action#android.intent.action.VIEW
+ADDED from [com.google.firebase:firebase-auth:20.0.1] /home/pogo/.gradle/caches/transforms-2/files-2.1/d279e6b135cb32205dcd77435bcad661/jetified-firebase-auth-20.0.1/AndroidManifest.xml:34:17-69
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:20.0.1] /home/pogo/.gradle/caches/transforms-2/files-2.1/d279e6b135cb32205dcd77435bcad661/jetified-firebase-auth-20.0.1/AndroidManifest.xml:34:25-66
+category#android.intent.category.DEFAULT
+ADDED from [com.google.firebase:firebase-auth:20.0.1] /home/pogo/.gradle/caches/transforms-2/files-2.1/d279e6b135cb32205dcd77435bcad661/jetified-firebase-auth-20.0.1/AndroidManifest.xml:36:17-76
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:20.0.1] /home/pogo/.gradle/caches/transforms-2/files-2.1/d279e6b135cb32205dcd77435bcad661/jetified-firebase-auth-20.0.1/AndroidManifest.xml:36:27-73
+category#android.intent.category.BROWSABLE
+ADDED from [com.google.firebase:firebase-auth:20.0.1] /home/pogo/.gradle/caches/transforms-2/files-2.1/d279e6b135cb32205dcd77435bcad661/jetified-firebase-auth-20.0.1/AndroidManifest.xml:37:17-78
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:20.0.1] /home/pogo/.gradle/caches/transforms-2/files-2.1/d279e6b135cb32205dcd77435bcad661/jetified-firebase-auth-20.0.1/AndroidManifest.xml:37:27-75
+data
+ADDED from [com.google.firebase:firebase-auth:20.0.1] /home/pogo/.gradle/caches/transforms-2/files-2.1/d279e6b135cb32205dcd77435bcad661/jetified-firebase-auth-20.0.1/AndroidManifest.xml:39:17-42:51
+	android:path
+		ADDED from [com.google.firebase:firebase-auth:20.0.1] /home/pogo/.gradle/caches/transforms-2/files-2.1/d279e6b135cb32205dcd77435bcad661/jetified-firebase-auth-20.0.1/AndroidManifest.xml:41:21-37
+	android:host
+		ADDED from [com.google.firebase:firebase-auth:20.0.1] /home/pogo/.gradle/caches/transforms-2/files-2.1/d279e6b135cb32205dcd77435bcad661/jetified-firebase-auth-20.0.1/AndroidManifest.xml:40:21-49
+	android:scheme
+		ADDED from [com.google.firebase:firebase-auth:20.0.1] /home/pogo/.gradle/caches/transforms-2/files-2.1/d279e6b135cb32205dcd77435bcad661/jetified-firebase-auth-20.0.1/AndroidManifest.xml:42:21-48
+activity#com.google.firebase.auth.internal.RecaptchaActivity
+ADDED from [com.google.firebase:firebase-auth:20.0.1] /home/pogo/.gradle/caches/transforms-2/files-2.1/d279e6b135cb32205dcd77435bcad661/jetified-firebase-auth-20.0.1/AndroidManifest.xml:45:9-62:20
+	android:excludeFromRecents
+		ADDED from [com.google.firebase:firebase-auth:20.0.1] /home/pogo/.gradle/caches/transforms-2/files-2.1/d279e6b135cb32205dcd77435bcad661/jetified-firebase-auth-20.0.1/AndroidManifest.xml:47:13-46
+	android:launchMode
+		ADDED from [com.google.firebase:firebase-auth:20.0.1] /home/pogo/.gradle/caches/transforms-2/files-2.1/d279e6b135cb32205dcd77435bcad661/jetified-firebase-auth-20.0.1/AndroidManifest.xml:49:13-44
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:20.0.1] /home/pogo/.gradle/caches/transforms-2/files-2.1/d279e6b135cb32205dcd77435bcad661/jetified-firebase-auth-20.0.1/AndroidManifest.xml:48:13-36
+	android:theme
+		ADDED from [com.google.firebase:firebase-auth:20.0.1] /home/pogo/.gradle/caches/transforms-2/files-2.1/d279e6b135cb32205dcd77435bcad661/jetified-firebase-auth-20.0.1/AndroidManifest.xml:50:13-72
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:20.0.1] /home/pogo/.gradle/caches/transforms-2/files-2.1/d279e6b135cb32205dcd77435bcad661/jetified-firebase-auth-20.0.1/AndroidManifest.xml:46:13-79
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:firebase.auth+data:path:/+data:scheme:recaptcha
+ADDED from [com.google.firebase:firebase-auth:20.0.1] /home/pogo/.gradle/caches/transforms-2/files-2.1/d279e6b135cb32205dcd77435bcad661/jetified-firebase-auth-20.0.1/AndroidManifest.xml:51:13-61:29
+service#com.google.firebase.auth.api.fallback.service.FirebaseAuthFallbackService
+ADDED from [com.google.firebase:firebase-auth:20.0.1] /home/pogo/.gradle/caches/transforms-2/files-2.1/d279e6b135cb32205dcd77435bcad661/jetified-firebase-auth-20.0.1/AndroidManifest.xml:64:9-73:19
+	android:enabled
+		ADDED from [com.google.firebase:firebase-auth:20.0.1] /home/pogo/.gradle/caches/transforms-2/files-2.1/d279e6b135cb32205dcd77435bcad661/jetified-firebase-auth-20.0.1/AndroidManifest.xml:66:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:20.0.1] /home/pogo/.gradle/caches/transforms-2/files-2.1/d279e6b135cb32205dcd77435bcad661/jetified-firebase-auth-20.0.1/AndroidManifest.xml:67:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:20.0.1] /home/pogo/.gradle/caches/transforms-2/files-2.1/d279e6b135cb32205dcd77435bcad661/jetified-firebase-auth-20.0.1/AndroidManifest.xml:65:13-101
+intent-filter#action:name:com.google.firebase.auth.api.gms.service.START+category:name:android.intent.category.DEFAULT
+ADDED from [com.google.firebase:firebase-auth:20.0.1] /home/pogo/.gradle/caches/transforms-2/files-2.1/d279e6b135cb32205dcd77435bcad661/jetified-firebase-auth-20.0.1/AndroidManifest.xml:68:13-72:29
+action#com.google.firebase.auth.api.gms.service.START
+ADDED from [com.google.firebase:firebase-auth:20.0.1] /home/pogo/.gradle/caches/transforms-2/files-2.1/d279e6b135cb32205dcd77435bcad661/jetified-firebase-auth-20.0.1/AndroidManifest.xml:69:17-89
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:20.0.1] /home/pogo/.gradle/caches/transforms-2/files-2.1/d279e6b135cb32205dcd77435bcad661/jetified-firebase-auth-20.0.1/AndroidManifest.xml:69:25-86
+meta-data#com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar
+ADDED from [com.google.firebase:firebase-auth:20.0.1] /home/pogo/.gradle/caches/transforms-2/files-2.1/d279e6b135cb32205dcd77435bcad661/jetified-firebase-auth-20.0.1/AndroidManifest.xml:77:13-79:85
+	android:value
+		ADDED from [com.google.firebase:firebase-auth:20.0.1] /home/pogo/.gradle/caches/transforms-2/files-2.1/d279e6b135cb32205dcd77435bcad661/jetified-firebase-auth-20.0.1/AndroidManifest.xml:79:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:20.0.1] /home/pogo/.gradle/caches/transforms-2/files-2.1/d279e6b135cb32205dcd77435bcad661/jetified-firebase-auth-20.0.1/AndroidManifest.xml:78:17-109
+service#com.google.firebase.messaging.FirebaseMessagingService
+ADDED from [com.google.firebase:firebase-messaging:21.0.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/680cd98f9132cc7693c5e0e2628c9782/jetified-firebase-messaging-21.0.0/AndroidManifest.xml:28:9-35:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-messaging:21.0.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/680cd98f9132cc7693c5e0e2628c9782/jetified-firebase-messaging-21.0.0/AndroidManifest.xml:31:13-37
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-messaging:21.0.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/680cd98f9132cc7693c5e0e2628c9782/jetified-firebase-messaging-21.0.0/AndroidManifest.xml:30:13-43
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:21.0.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/680cd98f9132cc7693c5e0e2628c9782/jetified-firebase-messaging-21.0.0/AndroidManifest.xml:29:13-82
+meta-data#com.google.firebase.components:com.google.firebase.messaging.FirebaseMessagingRegistrar
+ADDED from [com.google.firebase:firebase-messaging:21.0.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/680cd98f9132cc7693c5e0e2628c9782/jetified-firebase-messaging-21.0.0/AndroidManifest.xml:39:13-41:85
+	android:value
+		ADDED from [com.google.firebase:firebase-messaging:21.0.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/680cd98f9132cc7693c5e0e2628c9782/jetified-firebase-messaging-21.0.0/AndroidManifest.xml:41:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:21.0.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/680cd98f9132cc7693c5e0e2628c9782/jetified-firebase-messaging-21.0.0/AndroidManifest.xml:40:17-119
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:21.0.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/a78eb796179cddbcb73ccd400832657b/firebase-iid-21.0.0/AndroidManifest.xml:26:5-82
+MERGED from [com.google.android.gms:play-services-cloud-messaging:16.0.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/2358f4dcbde0ef87bad7724948ba82bd/play-services-cloud-messaging-16.0.0/AndroidManifest.xml:11:5-82
+MERGED from [com.google.android.gms:play-services-cloud-messaging:16.0.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/2358f4dcbde0ef87bad7724948ba82bd/play-services-cloud-messaging-16.0.0/AndroidManifest.xml:11:5-82
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:21.0.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/a78eb796179cddbcb73ccd400832657b/firebase-iid-21.0.0/AndroidManifest.xml:26:22-79
+meta-data#com.google.firebase.components:com.google.firebase.iid.Registrar
+ADDED from [com.google.firebase:firebase-iid:21.0.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/a78eb796179cddbcb73ccd400832657b/firebase-iid-21.0.0/AndroidManifest.xml:32:13-34:85
+	android:value
+		ADDED from [com.google.firebase:firebase-iid:21.0.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/a78eb796179cddbcb73ccd400832657b/firebase-iid-21.0.0/AndroidManifest.xml:34:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:21.0.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/a78eb796179cddbcb73ccd400832657b/firebase-iid-21.0.0/AndroidManifest.xml:33:17-96
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:21.0.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/a78eb796179cddbcb73ccd400832657b/firebase-iid-21.0.0/AndroidManifest.xml:37:9-44:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:21.0.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/a78eb796179cddbcb73ccd400832657b/firebase-iid-21.0.0/AndroidManifest.xml:39:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:21.0.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/a78eb796179cddbcb73ccd400832657b/firebase-iid-21.0.0/AndroidManifest.xml:40:13-73
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:21.0.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/a78eb796179cddbcb73ccd400832657b/firebase-iid-21.0.0/AndroidManifest.xml:38:13-78
+meta-data#com.google.firebase.components:com.google.firebase.firestore.FirestoreRegistrar
+ADDED from [com.google.firebase:firebase-firestore:22.0.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/643490a916298e8c3d5e2b02161a3e6e/jetified-firebase-firestore-22.0.0/AndroidManifest.xml:20:13-22:85
+	android:value
+		ADDED from [com.google.firebase:firebase-firestore:22.0.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/643490a916298e8c3d5e2b02161a3e6e/jetified-firebase-firestore-22.0.0/AndroidManifest.xml:22:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-firestore:22.0.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/643490a916298e8c3d5e2b02161a3e6e/jetified-firebase-firestore-22.0.0/AndroidManifest.xml:21:17-111
+meta-data#com.google.firebase.components:com.google.firebase.storage.StorageRegistrar
+ADDED from [com.google.firebase:firebase-storage:19.2.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/f08b4ba8bb9b64f3db8ab21f45831ef6/firebase-storage-19.2.0/AndroidManifest.xml:33:13-35:85
+	android:value
+		ADDED from [com.google.firebase:firebase-storage:19.2.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/f08b4ba8bb9b64f3db8ab21f45831ef6/firebase-storage-19.2.0/AndroidManifest.xml:35:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-storage:19.2.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/f08b4ba8bb9b64f3db8ab21f45831ef6/firebase-storage-19.2.0/AndroidManifest.xml:34:17-107
+meta-data#com.google.firebase.components:com.google.firebase.database.DatabaseRegistrar
+ADDED from [com.google.firebase:firebase-database:19.5.1] /home/pogo/.gradle/caches/transforms-2/files-2.1/4c24f1acb328b1cf4e3c08702dc67dab/firebase-database-19.5.1/AndroidManifest.xml:32:13-34:85
+	android:value
+		ADDED from [com.google.firebase:firebase-database:19.5.1] /home/pogo/.gradle/caches/transforms-2/files-2.1/4c24f1acb328b1cf4e3c08702dc67dab/firebase-database-19.5.1/AndroidManifest.xml:34:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-database:19.5.1] /home/pogo/.gradle/caches/transforms-2/files-2.1/4c24f1acb328b1cf4e3c08702dc67dab/firebase-database-19.5.1/AndroidManifest.xml:33:17-109
+meta-data#com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar
+ADDED from [com.google.android.gms:play-services-measurement-api:18.0.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/6be347fc773bd3718759b2fcb64e74c7/play-services-measurement-api-18.0.0/AndroidManifest.xml:30:13-32:85
+	android:value
+		ADDED from [com.google.android.gms:play-services-measurement-api:18.0.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/6be347fc773bd3718759b2fcb64e74c7/play-services-measurement-api-18.0.0/AndroidManifest.xml:32:17-82
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement-api:18.0.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/6be347fc773bd3718759b2fcb64e74c7/play-services-measurement-api-18.0.0/AndroidManifest.xml:31:17-139
+meta-data#com.google.firebase.components:com.google.firebase.datatransport.TransportRegistrar
+ADDED from [com.google.firebase:firebase-datatransport:17.0.3] /home/pogo/.gradle/caches/transforms-2/files-2.1/c4f9a0d168992baa77ee2aeb680d0a52/firebase-datatransport-17.0.3/AndroidManifest.xml:28:13-30:85
+	android:value
+		ADDED from [com.google.firebase:firebase-datatransport:17.0.3] /home/pogo/.gradle/caches/transforms-2/files-2.1/c4f9a0d168992baa77ee2aeb680d0a52/firebase-datatransport-17.0.3/AndroidManifest.xml:30:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-datatransport:17.0.3] /home/pogo/.gradle/caches/transforms-2/files-2.1/c4f9a0d168992baa77ee2aeb680d0a52/firebase-datatransport-17.0.3/AndroidManifest.xml:29:17-115
+meta-data#com.google.firebase.components:com.google.firebase.installations.FirebaseInstallationsRegistrar
+ADDED from [com.google.firebase:firebase-installations:16.3.4] /home/pogo/.gradle/caches/transforms-2/files-2.1/dc1de0c209d52e17e0d8a11f498db4e8/firebase-installations-16.3.4/AndroidManifest.xml:18:13-20:85
+	android:value
+		ADDED from [com.google.firebase:firebase-installations:16.3.4] /home/pogo/.gradle/caches/transforms-2/files-2.1/dc1de0c209d52e17e0d8a11f498db4e8/firebase-installations-16.3.4/AndroidManifest.xml:20:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-installations:16.3.4] /home/pogo/.gradle/caches/transforms-2/files-2.1/dc1de0c209d52e17e0d8a11f498db4e8/firebase-installations-16.3.4/AndroidManifest.xml:19:17-127
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:19.4.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/c6779c6da4c20ccbe864d17a8f9bee2a/jetified-firebase-common-19.4.0/AndroidManifest.xml:26:9-31:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:19.4.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/c6779c6da4c20ccbe864d17a8f9bee2a/jetified-firebase-common-19.4.0/AndroidManifest.xml:28:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:19.4.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/c6779c6da4c20ccbe864d17a8f9bee2a/jetified-firebase-common-19.4.0/AndroidManifest.xml:30:13-37
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-common:19.4.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/c6779c6da4c20ccbe864d17a8f9bee2a/jetified-firebase-common-19.4.0/AndroidManifest.xml:29:13-43
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:19.4.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/c6779c6da4c20ccbe864d17a8f9bee2a/jetified-firebase-common-19.4.0/AndroidManifest.xml:31:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:19.4.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/c6779c6da4c20ccbe864d17a8f9bee2a/jetified-firebase-common-19.4.0/AndroidManifest.xml:27:13-77
+service#com.google.android.datatransport.runtime.backends.TransportBackendDiscovery
+ADDED from [com.google.android.datatransport:transport-backend-cct:2.2.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/3116d236fbef1dcdfacb6517e9bed953/transport-backend-cct-2.2.0/AndroidManifest.xml:29:9-35:19
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/720db66f8004ac21031e2222069601f3/transport-runtime-2.2.0/AndroidManifest.xml:36:9-38:40
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/720db66f8004ac21031e2222069601f3/transport-runtime-2.2.0/AndroidManifest.xml:36:9-38:40
+	android:exported
+		ADDED from [com.google.android.datatransport:transport-backend-cct:2.2.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/3116d236fbef1dcdfacb6517e9bed953/transport-backend-cct-2.2.0/AndroidManifest.xml:31:13-37
+	android:name
+		ADDED from [com.google.android.datatransport:transport-backend-cct:2.2.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/3116d236fbef1dcdfacb6517e9bed953/transport-backend-cct-2.2.0/AndroidManifest.xml:30:13-103
+meta-data#backend:com.google.android.datatransport.cct.CctBackendFactory
+ADDED from [com.google.android.datatransport:transport-backend-cct:2.2.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/3116d236fbef1dcdfacb6517e9bed953/transport-backend-cct-2.2.0/AndroidManifest.xml:32:13-34:39
+	android:value
+		ADDED from [com.google.android.datatransport:transport-backend-cct:2.2.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/3116d236fbef1dcdfacb6517e9bed953/transport-backend-cct-2.2.0/AndroidManifest.xml:34:17-36
+	android:name
+		ADDED from [com.google.android.datatransport:transport-backend-cct:2.2.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/3116d236fbef1dcdfacb6517e9bed953/transport-backend-cct-2.2.0/AndroidManifest.xml:33:17-94
+service#com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService
+ADDED from [com.google.android.datatransport:transport-runtime:2.2.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/720db66f8004ac21031e2222069601f3/transport-runtime-2.2.0/AndroidManifest.xml:26:9-30:19
+	android:exported
+		ADDED from [com.google.android.datatransport:transport-runtime:2.2.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/720db66f8004ac21031e2222069601f3/transport-runtime-2.2.0/AndroidManifest.xml:28:13-37
+	android:permission
+		ADDED from [com.google.android.datatransport:transport-runtime:2.2.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/720db66f8004ac21031e2222069601f3/transport-runtime-2.2.0/AndroidManifest.xml:29:13-69
+	android:name
+		ADDED from [com.google.android.datatransport:transport-runtime:2.2.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/720db66f8004ac21031e2222069601f3/transport-runtime-2.2.0/AndroidManifest.xml:27:13-117
+receiver#com.google.android.datatransport.runtime.scheduling.jobscheduling.AlarmManagerSchedulerBroadcastReceiver
+ADDED from [com.google.android.datatransport:transport-runtime:2.2.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/720db66f8004ac21031e2222069601f3/transport-runtime-2.2.0/AndroidManifest.xml:32:9-34:40
+	android:exported
+		ADDED from [com.google.android.datatransport:transport-runtime:2.2.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/720db66f8004ac21031e2222069601f3/transport-runtime-2.2.0/AndroidManifest.xml:34:13-37
+	android:name
+		ADDED from [com.google.android.datatransport:transport-runtime:2.2.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/720db66f8004ac21031e2222069601f3/transport-runtime-2.2.0/AndroidManifest.xml:33:13-132
+activity#com.google.android.gms.auth.api.signin.internal.SignInHubActivity
+ADDED from [com.google.android.gms:play-services-auth:18.1.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/0a126c1774474d2c805168dde34a9862/play-services-auth-18.1.0/AndroidManifest.xml:23:9-27:75
+	android:excludeFromRecents
+		ADDED from [com.google.android.gms:play-services-auth:18.1.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/0a126c1774474d2c805168dde34a9862/play-services-auth-18.1.0/AndroidManifest.xml:25:13-46
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:18.1.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/0a126c1774474d2c805168dde34a9862/play-services-auth-18.1.0/AndroidManifest.xml:26:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-auth:18.1.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/0a126c1774474d2c805168dde34a9862/play-services-auth-18.1.0/AndroidManifest.xml:27:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:18.1.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/0a126c1774474d2c805168dde34a9862/play-services-auth-18.1.0/AndroidManifest.xml:24:13-93
+service#com.google.android.gms.auth.api.signin.RevocationBoundService
+ADDED from [com.google.android.gms:play-services-auth:18.1.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/0a126c1774474d2c805168dde34a9862/play-services-auth-18.1.0/AndroidManifest.xml:33:9-37:51
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:18.1.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/0a126c1774474d2c805168dde34a9862/play-services-auth-18.1.0/AndroidManifest.xml:35:13-36
+	android:visibleToInstantApps
+		ADDED from [com.google.android.gms:play-services-auth:18.1.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/0a126c1774474d2c805168dde34a9862/play-services-auth-18.1.0/AndroidManifest.xml:37:13-48
+	android:permission
+		ADDED from [com.google.android.gms:play-services-auth:18.1.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/0a126c1774474d2c805168dde34a9862/play-services-auth-18.1.0/AndroidManifest.xml:36:13-107
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:18.1.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/0a126c1774474d2c805168dde34a9862/play-services-auth-18.1.0/AndroidManifest.xml:34:13-89
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:17.1.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/d3caf54114e86177d18237a7364d1766/play-services-base-17.1.0/AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:17.1.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/d3caf54114e86177d18237a7364d1766/play-services-base-17.1.0/AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:17.1.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/d3caf54114e86177d18237a7364d1766/play-services-base-17.1.0/AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:17.1.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/d3caf54114e86177d18237a7364d1766/play-services-base-17.1.0/AndroidManifest.xml:24:13-79
+uses-permission#com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE
+ADDED from [com.google.android.gms:play-services-measurement:18.0.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/6f74dcac7c5d27c507231f5c02635066/play-services-measurement-18.0.0/AndroidManifest.xml:26:5-110
+MERGED from [com.google.android.gms:play-services-measurement-impl:18.0.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/b63be9ff7deb386b2f72a29307370119/play-services-measurement-impl-18.0.0/AndroidManifest.xml:26:5-110
+MERGED from [com.google.android.gms:play-services-measurement-impl:18.0.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/b63be9ff7deb386b2f72a29307370119/play-services-measurement-impl-18.0.0/AndroidManifest.xml:26:5-110
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:18.0.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/6f74dcac7c5d27c507231f5c02635066/play-services-measurement-18.0.0/AndroidManifest.xml:26:22-107
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.android.gms:play-services-measurement:18.0.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/6f74dcac7c5d27c507231f5c02635066/play-services-measurement-18.0.0/AndroidManifest.xml:29:9-33:20
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:18.0.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/6f74dcac7c5d27c507231f5c02635066/play-services-measurement-18.0.0/AndroidManifest.xml:31:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:18.0.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/6f74dcac7c5d27c507231f5c02635066/play-services-measurement-18.0.0/AndroidManifest.xml:32:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:18.0.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/6f74dcac7c5d27c507231f5c02635066/play-services-measurement-18.0.0/AndroidManifest.xml:30:13-85
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.android.gms:play-services-measurement:18.0.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/6f74dcac7c5d27c507231f5c02635066/play-services-measurement-18.0.0/AndroidManifest.xml:35:9-38:40
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:18.0.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/6f74dcac7c5d27c507231f5c02635066/play-services-measurement-18.0.0/AndroidManifest.xml:37:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:18.0.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/6f74dcac7c5d27c507231f5c02635066/play-services-measurement-18.0.0/AndroidManifest.xml:38:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:18.0.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/6f74dcac7c5d27c507231f5c02635066/play-services-measurement-18.0.0/AndroidManifest.xml:36:13-84
+service#com.google.android.gms.measurement.AppMeasurementJobService
+ADDED from [com.google.android.gms:play-services-measurement:18.0.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/6f74dcac7c5d27c507231f5c02635066/play-services-measurement-18.0.0/AndroidManifest.xml:39:9-43:72
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:18.0.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/6f74dcac7c5d27c507231f5c02635066/play-services-measurement-18.0.0/AndroidManifest.xml:41:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:18.0.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/6f74dcac7c5d27c507231f5c02635066/play-services-measurement-18.0.0/AndroidManifest.xml:42:13-37
+	android:permission
+		ADDED from [com.google.android.gms:play-services-measurement:18.0.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/6f74dcac7c5d27c507231f5c02635066/play-services-measurement-18.0.0/AndroidManifest.xml:43:13-69
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:18.0.0] /home/pogo/.gradle/caches/transforms-2/files-2.1/6f74dcac7c5d27c507231f5c02635066/play-services-measurement-18.0.0/AndroidManifest.xml:40:13-87
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:17.1.1] /home/pogo/.gradle/caches/transforms-2/files-2.1/3cdbfbe24ad8b96616b3cbd2c86974b9/jetified-play-services-basement-17.1.1/AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:17.1.1] /home/pogo/.gradle/caches/transforms-2/files-2.1/3cdbfbe24ad8b96616b3cbd2c86974b9/jetified-play-services-basement-17.1.1/AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:17.1.1] /home/pogo/.gradle/caches/transforms-2/files-2.1/3cdbfbe24ad8b96616b3cbd2c86974b9/jetified-play-services-basement-17.1.1/AndroidManifest.xml:24:13-58

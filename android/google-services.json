@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_number": "152534543345",
+    "firebase_url": "https://greyshades-52353.firebaseio.com",
+    "project_id": "greyshades-52353",
+    "storage_bucket": "greyshades-52353.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:152534543345:android:f418cfc609f2055ce0f250",
+        "android_client_info": {
+          "package_name": "com.greyshades"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "152534543345-ceh39k0logtu9em8h1c6cvqmm354gbc1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.greyshades",
+            "certificate_hash": "4a1e85ed63172290c5027ea7a6e59e903b527640"
+          }
+        },
+        {
+          "client_id": "152534543345-ihel7cn85cemocfb3d0ri6sfn35d0dhe.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.greyshades",
+            "certificate_hash": "c63f1872ee0377a86464d6099a6637c76a70b9f8"
+          }
+        },
+        {
+          "client_id": "152534543345-208oeie3kb0q9n786ern6s84httpmg4l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAX-wNkShCrJHiEas-9q4E3_Mzsdxs7cAo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "152534543345-208oeie3kb0q9n786ern6s84httpmg4l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
